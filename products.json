@@ -1,0 +1,1037 @@
+[
+  {
+    "productId": "101",
+    "productName": "Apple iPhone 15 Pro Max",
+    "images": [
+      "https://www.pakmobizone.pk/wp-content/uploads/2023/09/Apple-iphone-15-Pro-Max-Natural-Titanium-5.jpg",
+      "https://regen.pk/cdn/shop/files/REGEN-iPhone15proMax-BlueTitanium_f880685b-147e-4e3a-a19a-48442adbf1d9.png?v=1721986978",
+      "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/iphone-15-pro-max.png",
+      "https://regen.pk/cdn/shop/files/REGEN-iPhone15proMax-BlueTitanium_f880685b-147e-4e3a-a19a-48442adbf1d9.png?v=1721986978"
+    ],
+    "price": 1399.99,
+    "originalPrice": 1599.99,
+    "discount": "12%",
+    "rating": 4.9,
+    "reviewCount": 200,
+    "description": "Experience the power of Apple iPhone 15 Pro Max with a sleek titanium frame and advanced features.",
+    "seller": "Apple Store",
+    "availability": "In Stock",
+    "tags": [
+      "Top Rated",
+      "New Arrival"
+    ],
+    "newProduct": true,
+    "category": "Smartphones",
+    "colors": [
+      "#D0CBC7",
+      "#4A90E2",
+      "#F5F5F5",
+      "#333333"
+    ],
+    "stock": 15,
+    "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+    }
+  },
+  {
+    "productId": "102",
+    "productName": "Samsung Galaxy S23 Ultra",
+    "images": [
+      "https://friendshome.pk/cdn/shop/files/UntitledProject_95_e647bf9d-2e36-4cbc-bd7f-d69ae75df271.jpg?v=1712571955",
+      "https://images.samsung.com/pk/smartphones/galaxy-s23-ultra/buy/product_color_green.png",
+      "https://skit.ng/wp-content/uploads/2023/05/Samsung-Galaxy-S23-Ultra-5G-Skit-Store.jpg",
+      "https://s7d1.scene7.com/is/image/dmqualcommprod/Header_688x444-8?$QC_Responsive$&fmt=png-alpha&wid=500"
+    ],
+    "price": 1199.99,
+    "originalPrice": 1299.99,
+    "discount": "8%",
+    "rating": 4.8,
+    "reviewCount": 150,
+    "description": "The Samsung Galaxy S23 Ultra offers stunning photography, high performance, and a brilliant display.",
+    "seller": "Samsung Official Store",
+    "availability": "Limited Stock",
+    "tags": [
+      "Best Seller",
+      "Premium"
+    ],
+    "newProduct": false,
+    "category": "Smartphones",
+    "colors": [
+      "#0D0D0D",
+      "#4CAF50",
+      "#FFC107"
+    ],
+    "stock": 5,
+    "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+    }
+  },
+  {
+    "productId": "103",
+    "productName": "Google Pixel 8 Pro",
+    "images": [
+      "https://cdn.dxomark.com/wp-content/uploads/medias/post-157488/Google-Pixel-8-Pro-featured-image-packshot-review.jpg",
+      "https://qmart.pk/cdn/shop/files/Google-Pixel-8-Pro-Qmart-1_eef05a06-f938-48dc-844e-73306c2b9592.jpg?v=1698133938",
+      "https://retail.com.pk/cdn/shop/files/google-pixel-b.jpg?v=1707124050",
+      "https://www.dpreview.com/files/p/articles/3382512956/both_back.jpeg"
+    ],
+    "price": 999.99,
+    "originalPrice": 1099.99,
+    "discount": "9%",
+    "rating": 4.7,
+    "reviewCount": 180,
+    "description": "The Google Pixel 8 Pro features an exceptional camera, powerful performance, and the latest Android updates.",
+    "seller": "Google Official Store",
+    "availability": "In Stock",
+    "tags": [
+      "New Arrival",
+      "Top Rated"
+    ],
+    "newProduct": true,
+    "category": "Smartphones",
+    "colors": [
+      "#FFFFFF",
+      "#0D0D0D",
+      "#FF5722"
+    ],
+    "stock": 20,
+    "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+    }
+  },
+  {
+    "productId": "104",
+    "productName": "OnePlus 11",
+    "images": [
+      "https://media.wisemarket.com.pk/product/oneplus-11-79.webp",
+      "https://qmart.pk/cdn/shop/files/OnePlus-11-2_47055ed8-695c-4457-a517-da003bff678a.jpg?v=1714212659&width=1445",
+      "https://www.91-cdn.com/hub/wp-content/uploads/2023/02/OnePlus-11-10.jpg",
+      "https://qmart.pk/cdn/shop/files/OnePlus-11-3.jpg?v=1697624521&width=1445"
+    ],
+    "price": 799.99,
+    "originalPrice": 849.99,
+    "discount": "6%",
+    "rating": 4.6,
+    "reviewCount": 140,
+    "description": "The OnePlus 11 combines speed and performance in a sleek design with the latest technology.",
+    "seller": "OnePlus Official Store",
+    "availability": "Limited Stock",
+    "tags": [
+      "Best Seller",
+      "Discounted"
+    ],
+    "newProduct": false,
+    "category": "Smartphones",
+    "colors": [
+      "#0D0D0D",
+      "#FF0000"
+    ],
+    "stock": 8,
+    "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+    }
+  },
+  {
+    "productId": "105",
+    "productName": "Xiaomi 13 Pro",
+    "images": [
+      "https://www.pakmobizone.pk/wp-content/uploads/2023/05/Xiaomi-13-Pro-Ceramic-White-1.png",
+      "https://fdn.gsmarena.com/imgroot/news/22/12/xiaomi-13-series-offic/gallery/-1200/gsmarena_001.jpg",
+      "https://spec.pk/wp-content/uploads/2022/12/Xiaomi-13-pro.jpg",
+      "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Xiaomi_13_pro_1.jpg"
+    ],
+    "price": 749.99,
+    "originalPrice": 799.99,
+    "discount": "6%",
+    "rating": 4.5,
+    "reviewCount": 95,
+    "description": "The Xiaomi 13 Pro brings advanced camera technology and sleek design in a powerful package.",
+    "seller": "Xiaomi Official Store",
+    "availability": "In Stock",
+    "tags": [
+      "New Arrival",
+      "Flagship"
+    ],
+    "newProduct": true,
+    "category": "Smartphones",
+    "colors": [
+      "#FFFFFF",
+      "#000000"
+    ],
+    "stock": 25,
+    "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+    }
+  },
+  {
+    "productId": "106",
+    "productName": "Sony Xperia 1 V",
+    "images": [
+      "https://spec.pk/wp-content/uploads/2023/12/Sony-Xperia-1-V.jpg",
+      "https://www.cnet.com/a/img/resize/3fa88ef4c8185e65049232953b36ac46369cdf91/hub/2023/05/10/c293a2d1-312e-4061-b001-9c389ce5caa9/p1003516-1.jpg?auto=webp&fit=crop&height=900&width=1200",
+      "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/06/sony-xperia-1-v-review-wmfixed-15.jpg",
+      "https://www.techgoondu.com/wp-content/uploads/2023/12/20231212_164401-1920x1440.jpg"
+    ],
+    "price": 949.99,
+    "originalPrice": 999.99,
+    "discount": "5%",
+    "rating": 4.7,
+    "reviewCount": 120,
+    "description": "Sony Xperia 1 V offers a stunning display, high-performance camera, and sleek design for ultimate mobile experience.",
+    "seller": "Sony Official Store",
+    "availability": "Limited Stock",
+    "tags": [
+      "Best Seller",
+      "Discounted"
+    ],
+    "newProduct": true,
+    "category": "Smartphones",
+    "colors": [
+      "#1C1C1C",
+      "#5A5A5A"
+    ],
+    "stock": 8,
+    "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+    }
+  },
+  {
+    "productId": "107",
+    "productName": "Oppo Find X6 Pro",
+    "images": [
+      "https://www.phoneplacekenya.com/wp-content/uploads/2022/09/Oppo-Find-X6-Pro-b.jpg",
+      "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/oppo_find_x6_pro_live1.jpg",
+      "https://amateurphotographer.com/wp-content/uploads/sites/7/2023/09/oppo_find_x6_pro_13.jpeg",
+      "https://miro.medium.com/v2/resize:fit:1080/1*C4_6OT-Agq2rzHmktk4o0w.jpeg"
+    ],
+    "price": 999.99,
+    "originalPrice": 1099.99,
+    "discount": "9%",
+    "rating": 4.8,
+    "reviewCount": 220,
+    "description": "Oppo Find X6 Pro is designed with innovative features, a stunning camera, and top-notch performance.",
+    "seller": "Oppo Official Store",
+    "availability": "In Stock",
+    "tags": [
+      "New Arrival",
+      "Premium"
+    ],
+    "newProduct": true,
+    "category": "Smartphones",
+    "colors": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "stock": 15,
+    "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+    }
+  },
+  {
+    "productId": "108",
+    "productName": "Motorola Edge 40 Pro",
+    "images": [
+      "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Motorolaedge40pro.jpeg",
+      "https://motorolaus.vtexassets.com/arquivos/ids/163011/motorola-edge-40-pro-pdp-ecom-render-1-quartz-black-x6mr7rb6.png?v=638186240600330000?w=128&q=75",
+      "https://cdn.mos.cms.futurecdn.net/WMDkRjzFYhfhpGmuJmVswD.jpg",
+      "https://www.dateks.lv/images/pic/2400/2400/506/1505.jpg"
+    ],
+    "price": 899.99,
+    "rating": 4.7,
+    "reviewCount": 185,
+    "description": "Motorola Edge 40 Pro offers a high refresh rate display, superior performance, and advanced camera capabilities.",
+    "seller": "Motorola Official Store",
+    "availability": "Limited Stock",
+    "tags": [
+      "Featured",
+      "Best Seller"
+    ],
+    "newProduct": false,
+    "category": "Smartphones",
+    "colors": [
+      "#1A1A1A",
+      "#B3B3B3"
+    ],
+    "stock": 8,
+    "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+    }
+  },
+  {
+    "productId": "109",
+    "productName": "Asus ROG Phone 7 Ultimate",
+    "images": [
+      "https://dlcdnwebimgs.asus.com/gain/A16F8224-F8F7-44F3-A1D5-A9A1AEC9F92D/w250",
+      "https://www.stuff.tv/wp-content/uploads/sites/2/2023/04/Asus-ROG-Phone-7-Ultimate-rear.jpg",
+      "https://dlcdnwebimgs.asus.com/gain/24D0E21F-90B8-47EB-9F5B-AD6D1458D959",
+      "https://www.triveniworld.com/cdn/shop/products/asus-rog-phone-7-ultimate-5g-storm-white-512gb-16gb-dual-refurbished-triveni-world-1.jpg?v=1705492354"
+    ],
+    "price": 999.99,
+    "originalPrice": 1099.99,
+    "discount": "9%",
+    "rating": 4.8,
+    "reviewCount": 230,
+    "description": "The Asus ROG Phone 7 Ultimate is a high-performance gaming phone with cutting-edge specs and cooling technology.",
+    "seller": "Asus Official Store",
+    "availability": "In Stock",
+    "tags": [
+      "Gaming",
+      "High Performance"
+    ],
+    "newProduct": true,
+    "category": "Smartphones",
+    "colors": [
+      "#FFFFFF",
+      "#000000"
+    ],
+    "stock": 15,
+    "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+    }
+  },
+  {
+    "productId": "110",
+    "productName": "Huawei P60 Pro",
+    "images": [
+      "https://cdn.dxomark.com/wp-content/uploads/medias/post-147160/Huawei-P60-Pro_featured-image-packshot-review-Recovered.jpg",
+      "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/phones/p60-pro/images/accessories/huawei-p60-pro-accessories-02.jpg",
+      "https://cacellular.co.za/wp-content/uploads/2024/09/HUAWEI-P60-Pro-256GB-Dual-Sim-Black.jpg",
+      "https://technocircle.ee/wp-content/uploads/2024/03/huawei-p60-pro-purple-600x600.png"
+    ],
+    "price": 899.99,
+    "originalPrice": 949.99,
+    "discount": "5%",
+    "rating": 4.5,
+    "reviewCount": 180,
+    "description": "The Huawei P60 Pro features exceptional camera capabilities, sleek design, and advanced performance.",
+    "seller": "Huawei Official Store",
+    "availability": "Limited Stock",
+    "tags": [
+      "Camera",
+      "Premium"
+    ],
+    "newProduct": true,
+    "category": "Smartphones",
+    "colors": [
+      "#000000",
+      "#7A3F97"
+    ],
+    "stock": 9,
+    "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+    }
+  },
+  {
+    "productId": "120",
+    "productName": "Nokia 6300 4G",
+    "images": [
+        "https://www.whatmobile.com.pk/admin/images/Nokia/6300%204G/Nokia-6300-4G-Image-2.jpg",
+        "https://i0.wp.com/nokiapoweruser.com/wp-content/uploads/2020/11/Nokia-6300-4G-Nokia-8000-4G-official-images.jpg?fit=1443%2C1017&ssl=1",
+        "https://sanguni.so/wp-content/uploads/2021/09/01-19.jpg",
+        "https://images.ctfassets.net/wcfotm6rrl7u/Yd9BB0HlRGdE680uUD90y/98aa842fe8bf6265f990b9631ba3ac04/nokia-6300_4G-powder_white-front_back-int.png?w=1200&h=630&fit=pad&bg=rgb:eeeeeeg"
+    ],
+    "price": 49.99,
+    "originalPrice": 59.99,
+    "discount": "17%",
+    "rating": 4.2,
+    "reviewCount": 75,
+    "description": "The Nokia 6300 4G offers essential features in a classic design with modern connectivity.",
+    "seller": "Nokia Store",
+    "availability": "Limited Stock",
+    "tags": ["Affordable", "Compact"],
+    "newProduct": false,
+    "category": "Basic Phones",
+    "colors": ["#FFFFFF", "#000000"],
+    "stock": 6,
+    "actions": {
+        "addToCart": true,
+        "buyNow": true,
+        "wishlist": true
+    }
+},
+{
+  "productId": "121",
+  "productName": "Samsung Galaxy Folder 2",
+  "images": [
+      "https://fdn.gsmarena.com/imgroot/news/16/09/galaxy-folder-2-official/-315/gsmarena_003.jpg",
+      "https://static.wemobiles.com/5125-large_default/samsung-galaxy-folder-2.webp",
+      "https://ae01.alicdn.com/kf/Scf8d6b17654a484ebb7f67390166f284G.jpg_960x960.jpg",
+      "https://images-na.ssl-images-amazon.com/images/I/61aNCNb7WBL._AC_UL600_SR600,600_.jpg"
+  ],
+  "price": 199.99,
+  "originalPrice": 249.99,
+  "discount": "20%",
+  "rating": 4.0,
+  "reviewCount": 50,
+  "description": "The Samsung Galaxy Folder 2 combines classic design with modern features, making it a stylish choice.",
+  "seller": "Samsung Official Store",
+  "availability": "Limited Stock",
+  "tags": ["Stylish", "Compact"],
+  "newProduct": false,
+  "category": "Basic Phones",
+  "colors": ["#000000", "#FFD700"],
+  "stock": 4,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "122",
+  "productName": "Nokia 3310 (3G)",
+  "images": [
+      "https://images.ctfassets.net/wcfotm6rrl7u/31jiWQGXn3AsaGegfl6hEh/c75e61048e69103cc74a54dc0938cceb/nokia-3310_3G-azure-front_back-int.png?w=1200&h=630&fit=pad",
+      "https://www.welectronics.com/images/stories/virtuemart/product/nokia-33102.jpg",
+      "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_h5fazu7fktkqdrGKb9CmgZZ0zv4X1CKAT92Ik3Ii.jpg",
+      "https://www.androidauthority.com/wp-content/uploads/2017/02/Nokia-3310-9.jpg"
+  ],
+  "price": 59.99,
+  "originalPrice": 69.99,
+  "discount": "14%",
+  "rating": 4.2,
+  "reviewCount": 30,
+  "description": "The Nokia 3310 (3G) brings back the iconic design with modern features for a nostalgic experience.",
+  "seller": "Nokia Official Store",
+  "availability": "Limited Stock",
+  "tags": ["Classic", "Durable"],
+  "newProduct": false,
+  "category": "Basic Phones",
+  "colors": ["#00A1DE", "#FFC0CB"],
+  "stock": 6,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "123",
+  "productName": "Cat B35",
+  "images": [
+      "https://www.notebookcheck.net/fileadmin/Notebooks/CAT/B35/cat_b35_battery.png",
+      "https://www.kaiostech.com/wp-content/uploads/2018/09/CAT-B35-01.jpg",
+      "https://i.imgur.com/9rphpNc.jpeg",
+      "https://www.kaiostech.com/wp-content/uploads/2018/09/CAT-B35-03.jpg"
+  ],
+  "price": 49.99,
+  "originalPrice": 59.99,
+  "discount": "17%",
+  "rating": 4.5,
+  "reviewCount": 45,
+  "description": "The Cat B35 is a rugged basic phone designed for tough environments, featuring long battery life and durability.",
+  "seller": "Cat Phones",
+  "availability": "In Stock",
+  "tags": ["Rugged", "Durable"],
+  "newProduct": false,
+  "category": "Basic Phones",
+  "colors": ["#FFD700", "#000000"],
+  "stock": 10,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "456",
+  "productName": "Alcatel GO FLIP 3",
+  "images": [
+      "https://www.kaiostech.com/wp-content/uploads/2019/09/Alcatel-Go-Flip-3-01.jpg",
+      "https://www.canadianreviewer.com/storage/TCL10ProPhotos8.jpg?__SQUARESPACE_CACHEVERSION=1597062861259",
+      "https://i.pcmag.com/imagery/articles/01VAFodbcnLsPNWFtiqrBHj-7.fit_lim.v1569491135.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUVW9dYr2rVFznnxq2OrlXk-Bw_EUKaMpggw&s"
+  ],
+  "price": 79.99,
+  "originalPrice": 99.99,
+  "discount": "20%",
+  "rating": 4.2,
+  "reviewCount": 30,
+  "description": "The Alcatel GO FLIP 3 is a stylish and easy-to-use basic phone with essential features and 4G connectivity.",
+  "seller": "Alcatel",
+  "availability": "In Stock",
+  "tags": ["Flip Phone", "4G"],
+  "newProduct": true,
+  "category": "Basic Phones",
+  "colors": ["#F8B400", "#000000"],
+  "stock": 25,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "789",
+  "productName": "Stylish Mobile Cases",
+  "images": [
+      "https://uniqueaccessories.pk/wp-content/uploads/2022/03/iPhone-Silicone-Cases-Sky-Blue.jpg",
+      "https://breachit.pk/cdn/shop/files/t061-vintage-sticker-transparent-design-mobile-case-560047.jpg?v=1718125878",
+      "https://breachit.pk/cdn/shop/files/t119-girl-art-transparent-design-mobile-case-735439.jpg?v=1718175491&width=533",
+      "https://icase.pk/cdn/shop/products/228586555_131812022466913_7582103988846206687_n-789930.jpg?v=1696153320"
+  ],
+  "price": 19.99,
+  "originalPrice": 29.99,
+  "discount": "33%",
+  "rating": 4.5,
+  "reviewCount": 45,
+  "description": "Protect your phone in style with our collection of trendy mobile cases, designed for both protection and aesthetics.",
+  "seller": "Unique Accessories",
+  "availability": "In Stock",
+  "tags": ["Mobile Case", "Accessories"],
+  "newProduct": true,
+  "category": "Accessories",
+  "colors": ["#87CEEB", "#FF69B4"],
+  "stock": 100,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "790",
+  "productName": "Cute Couple Mobile Cases",
+  "images": [
+      "https://www.uniquebud.com/cdn/shop/products/660108770B-1.jpg?v=1667156543&width=533",
+      "https://breachit.pk/cdn/shop/products/mc053-name-design-mountain-couple-mobile-case-804684.jpg?v=1709794661&width=533",
+      "https://breachit.pk/cdn/shop/files/b026-bear-mobile-case-with-popsocket-556536.jpg?v=1718210271",
+      "https://www.uniquebud.com/cdn/shop/products/660108250E-1.jpg?v=1667154616&width=533"
+  ],
+  "price": 15.99,
+  "originalPrice": 24.99,
+  "discount": "36%",
+  "rating": 4.8,
+  "reviewCount": 32,
+  "description": "Express your love with our adorable couple mobile cases, perfect for couples who want to match their style.",
+  "seller": "Unique Bud",
+  "availability": "In Stock",
+  "tags": ["Couple Case", "Mobile Case", "Accessories"],
+  "newProduct": true,
+  "category": "Accessories",
+  "colors": ["#FFB6C1", "#FFE4E1"],
+  "stock": 80,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "800",
+  "productName": "6Ft Phone Charger with Wall Adapter",
+  "images": [
+      "https://i5.walmartimages.com/seo/Phone-Charger-6Ft-Charging-Cable-Wall-Power-Adapter-Plug-Block-Compatible-iPhone-14-pro-max-13-12-X-8-8-Plus-7-7-Plus-6-6S-6-Plu-5S-SE-Mini-Air-Pro_d641bbee-a7e7-4aa6-9ab2-1a9c717517d0.f755294fa54de8fb8e4bab1e92a1bdec.jpeg",
+      "https://cdn.thewirecutter.com/wp-content/media/2020/12/ushphonechargers-2048px-2776.jpg?auto=webp&quality=60&width=570",
+      "https://nexos.pk/cdn/shop/files/A7408604_4fe5e0f7-d00f-40e5-bacf-2036c40ef70f.png?v=1719841811",
+      "https://img.drz.lazcdn.com/static/pk/p/9965284288b3200070f5f86ef38ffff1.jpg_720x720q80.jpg"
+  ],
+  "price": 12.99,
+  "originalPrice": 19.99,
+  "discount": "35%",
+  "rating": 4.5,
+  "reviewCount": 25,
+  "description": "High-speed charging cable with a durable wall adapter, compatible with all iPhone models.",
+  "seller": "Gadget World",
+  "availability": "In Stock",
+  "tags": ["Charger", "Accessories", "iPhone"],
+  "newProduct": true,
+  "category": "Accessories",
+  "stock": 150,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "8011",
+  "productName": "USB Type-C Charging Cable",
+  "images": [
+      "https://oneclickshopping.pk/wp-content/uploads/2022/04/ce9dde0d3de10e0445cb196.png",
+      "https://img.drz.lazcdn.com/static/pk/p/ebf4c3a0d6cfc35ce7292409f560d8fe.jpg_720x720q80.jpg",
+      "https://nexos.pk/cdn/shop/files/A7408755_4919ad85-131f-4ef1-bff4-e5bc7956ce3a.png?v=1719841606",
+      "https://m.media-amazon.com/images/I/61nYNJ7O1BL.jpg"
+  ],
+  "price": 8.99,
+  "originalPrice": 14.99,
+  "discount": "40%",
+  "rating": 4.6,
+  "reviewCount": 18,
+  "description": "Durable and fast-charging USB Type-C cable for all compatible devices.",
+  "seller": "Tech Hub",
+  "availability": "In Stock",
+  "tags": ["USB Cable", "Accessories", "Type-C"],
+  "newProduct": true,
+  "category": "Accessories",
+  "stock": 100,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "8010",
+  "productName": "USB Type-C Charging Cable",
+  "images": [
+      "https://oneclickshopping.pk/wp-content/uploads/2022/04/ce9dde0d3de10e0445cb196.png",
+      "https://img.drz.lazcdn.com/static/pk/p/ebf4c3a0d6cfc35ce7292409f560d8fe.jpg_720x720q80.jpg",
+      "https://nexos.pk/cdn/shop/files/A7408755_4919ad85-131f-4ef1-bff4-e5bc7956ce3a.png?v=1719841606",
+      "https://m.media-amazon.com/images/I/61nYNJ7O1BL.jpg"
+  ],
+  "price": 8.99,
+  "originalPrice": 14.99,
+  "discount": "40%",
+  "rating": 4.6,
+  "reviewCount": 18,
+  "description": "Durable and fast-charging USB Type-C cable for all compatible devices.",
+  "seller": "Tech Hub",
+  "availability": "In Stock",
+  "tags": ["USB Cable", "Accessories", "Type-C"],
+  "newProduct": true,
+  "category": "Accessories",
+  "stock": 100,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "802",
+  "productName": "Apple MacBook Air (M2, 15-inch)",
+  "images": [
+      "https://cityshop.com.pk/wp-content/uploads/2023/06/apple-macbook-air-15-inch-m2-midnight-view.jpg",
+      "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg",
+      "https://fcracer.com/wp-content/uploads/2022/08/GFXS8814-JPEG-blog-1.jpg",
+      "https://tech4u.pk/wp-content/uploads/2023/07/Macbook-Air-1522-Cover.jpeg"
+  ],
+  "price": 1299.99,
+  "originalPrice": 1499.99,
+  "discount": "13%",
+  "rating": 4.8,
+  "reviewCount": 112,
+  "description": "Sleek and powerful 15-inch MacBook Air with the advanced M2 chip, delivering incredible performance and battery life. Ideal for productivity, creativity, and entertainment.",
+  "specifications": {
+      "processor": "Apple M2",
+      "memory": "8GB Unified Memory",
+      "storage": "256GB SSD",
+      "display": "15.3-inch Retina Display",
+      "graphics": "Integrated Apple 10-core GPU",
+      "batteryLife": "Up to 18 hours"
+  },
+  "seller": "Apple Store",
+  "availability": "In Stock",
+  "tags": ["Apple", "MacBook", "Laptop", "M2"],
+  "newProduct": true,
+  "category": "Laptops",
+  "stock": 50,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "803",
+  "productName": "Dell XPS 13",
+  "images": [
+      "https://www.mega.pk/items_images/Dell+XPS+13+9320+Plus+Core+i5+12th+Generation+8GB+RAM+512GB+SSD+Touch+Windows+11+Price+in+Pakistan%2C+Specifications%2C+Features_-_23744.webp",
+      "https://www.mega.pk/items_images/DELL+XPS+13+9310+Core+i7+11th+Generation+16GB+Ram+1TB+SSD+Win10+4k+UHD+Touch+Price+in+Pakistan%2C+Specifications%2C+Features_-_23211.webp",
+      "https://laptopcity.pk/wp-content/uploads/2021/01/dell_xps_13_7390-2.jpg",
+      "https://www.notebookcheck.net/fileadmin/Notebooks/Dell/XPS_13_9310_OLED/xps53.jpg"
+  ],
+  "price": 1099.99,
+  "originalPrice": 1299.99,
+  "discount": "15%",
+  "rating": 4.7,
+  "reviewCount": 87,
+  "description": "The Dell XPS 13 is a powerful and compact laptop with a stunning display and advanced performance, perfect for professionals and creatives on the go.",
+  "specifications": {
+      "processor": "Intel Core i7-12th Gen",
+      "memory": "16GB LPDDR4x",
+      "storage": "512GB SSD",
+      "display": "13.4-inch UHD+ InfinityEdge Touch Display",
+      "graphics": "Intel Iris Xe Graphics",
+      "batteryLife": "Up to 14 hours"
+  },
+  "seller": "Dell Official Store",
+  "availability": "In Stock",
+  "tags": ["Dell", "XPS", "Laptop", "High Performance"],
+  "newProduct": true,
+  "category": "Laptops",
+  "stock": 40,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "804",
+  "productName": "HP Spectre x360",
+  "images": [
+      "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/h/p/hp_spectre_x360_13_ef0000_blue.44_pm.jpg.webp",
+      "https://www.zdnet.com/a/img/resize/82ef73d73ca55b9b2c4e2eadb194e8dfb6e98e9e/2021/06/01/f142a480-28e0-48ab-8756-371966789aaf/hp-spectre-x360-14-main.jpg?auto=webp&width=1280",
+      "https://alaqsa.com.pk/wp-content/uploads/2022/09/612098_992529_04_front_zoom.jpg",
+      "https://www.asifcomputers.com/wp-content/uploads/2023/06/HP-Spectre-x360-16-F2013DX-3-1200x900.png"
+  ],
+  "price": 1399.99,
+  "originalPrice": 1599.99,
+  "discount": "12%",
+  "rating": 4.8,
+  "reviewCount": 110,
+  "description": "The HP Spectre x360 is a premium convertible laptop with a sleek design, powerful performance, and 360-degree hinge, perfect for versatile use in any setting.",
+  "specifications": {
+      "processor": "Intel Core i7-12th Gen",
+      "memory": "16GB LPDDR4x",
+      "storage": "512GB SSD",
+      "display": "13.5-inch 3K2K OLED Touchscreen",
+      "graphics": "Intel Iris Xe Graphics",
+      "batteryLife": "Up to 16 hours"
+  },
+  "seller": "HP Official Store",
+  "availability": "In Stock",
+  "tags": ["HP", "Spectre", "Convertible", "Laptop", "High Performance"],
+  "newProduct": true,
+  "category": "Laptops",
+  "stock": 35,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "805",
+  "productName": "Lenovo ThinkPad X1 Carbon (Gen 11)",
+  "images": [
+      "https://cdn.arstechnica.net/wp-content/uploads/2023/06/IMG_1204.jpeg",
+      "https://i.pcmag.com/imagery/reviews/00ZKLWYju5M1u4EsV018Vbu-1.fit_scale.size_760x427.v1686862377.jpg",
+      "https://www.cnet.com/a/img/resize/b3af9b69b677e04d8a724c564cfbc52388a4f5c9/hub/2023/09/28/c3202983-d46b-4c7b-bdf4-dbdf184b4a3c/x1-carbon-gen-11-lid.jpg?auto=webp&fit=crop&height=1200&width=1200",
+      "https://p1-ofp.static.pub/fes/cms/2023/02/10/m2x90er7aq4issqfzku0vuli4086vv761445.png"
+  ],
+  "price": 1799.99,
+  "originalPrice": 1999.99,
+  "discount": "10%",
+  "rating": 4.9,
+  "reviewCount": 85,
+  "description": "The Lenovo ThinkPad X1 Carbon Gen 11 is an ultra-lightweight, premium business laptop with high-end performance, renowned durability, and advanced security features, ideal for professionals on the go.",
+  "specifications": {
+      "processor": "Intel Core i7-13th Gen",
+      "memory": "16GB LPDDR5",
+      "storage": "1TB SSD",
+      "display": "14-inch WQHD+ (2560x1600) IPS",
+      "graphics": "Intel Iris Xe Graphics",
+      "batteryLife": "Up to 18 hours"
+  },
+  "seller": "Lenovo Official Store",
+  "availability": "In Stock",
+  "tags": ["Lenovo", "ThinkPad", "Business Laptop", "High Performance"],
+  "newProduct": true,
+  "category": "Laptops",
+  "stock": 40,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "806",
+  "productName": "Asus ZenBook 14",
+  "images": [
+      "https://www.firstshop.co.za/cdn/shop/files/90nb11r3-m00pf0-traditional-laptops-44527928213668.jpg?v=1712238950&width=1214",
+      "https://i.pcmag.com/imagery/reviews/075bmVhnXs6BUHpdXkVt9xo-1.fit_scale.size_760x427.v1708616444.jpg",
+      "https://www.theaureview.com/wp-content/uploads/2024/08/zenbook_14_oled_ux3405ma_foggy_s.png",
+      "https://www.asus.com/media/global/products/uJgUEW3dyw3uFSSj/P_setting_fff_1_90_end_600.png"
+  ],
+  "price": 1299.99,
+  "originalPrice": 1399.99,
+  "discount": "7%",
+  "rating": 4.7,
+  "reviewCount": 120,
+  "description": "The Asus ZenBook 14 is a sleek and powerful ultrabook, featuring a stunning OLED display and packed with the latest Intel Core processor, perfect for professionals seeking a high-performance, portable solution.",
+  "specifications": {
+      "processor": "Intel Core i7-13th Gen",
+      "memory": "16GB LPDDR5",
+      "storage": "512GB SSD",
+      "display": "14-inch 2.8K OLED (2880x1800)",
+      "graphics": "Intel Iris Xe Graphics",
+      "batteryLife": "Up to 15 hours"
+  },
+  "seller": "Asus Official Store",
+  "availability": "In Stock",
+  "tags": ["Asus", "ZenBook", "Ultrabook", "High Performance"],
+  "newProduct": false,
+  "category": "Laptops",
+  "stock": 55,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "807",
+  "productName": "Apple iMac 24 (M2)",
+  "images": [
+      "https://sm.pcmag.com/pcmag_me/review/a/apple-imac/apple-imac-24-inch-2023-m3_7um5.jpg",
+      "https://5.imimg.com/data5/SELLER/Default/2023/9/342387674/DB/HB/WL/148978464/imac-24inch-m2-max-500x500.jpeg",
+      "https://www.macworld.com/wp-content/uploads/2023/11/imac-colors.jpg?quality=50&strip=all&w=1024",
+      "https://cdn.shopify.com/s/files/1/0306/8677/products/apple-imac-24-inch-8gb-256gb-ssd-blue-imac-24-inch-m1-2-ports-2021-excellent-28718412890214.jpg"
+  ],
+  "price": 1699.99,
+  "originalPrice": 1799.99,
+  "discount": "5%",
+  "rating": 4.8,
+  "reviewCount": 230,
+  "description": "The Apple iMac 24 with M2 chip redefines all-in-one performance with its stunning 4.5K Retina display, vibrant colors, and the latest M2 processor, making it ideal for both creative and professional use.",
+  "specifications": {
+      "processor": "Apple M2 Chip",
+      "memory": "8GB Unified Memory",
+      "storage": "512GB SSD",
+      "display": "24-inch 4.5K Retina Display",
+      "graphics": "Apple Integrated Graphics",
+      "colors": ["Blue", "Pink", "Green", "Yellow"]
+  },
+  "seller": "Apple Official Store",
+  "availability": "In Stock",
+  "tags": ["Apple", "iMac", "M2", "Desktop", "All-in-One"],
+  "newProduct": true,
+  "category": "Desktop Computers",
+  "stock": 30,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "808",
+  "productName": "Dell Inspiron 27 All-in-One",
+  "images": [
+      "https://m.media-amazon.com/images/I/614zpnAim0L._AC_UF894,1000_QL80_.jpg",
+      "https://i.pcmag.com/imagery/reviews/045LsaqaKAHjtYw5J8N3jyw-1.fit_scale.size_760x427.v1662141320.jpg",
+      "https://www.dellstore.com/pub/media/catalog/product/cache/74ae05ef3745aec30d7f5a287debd7f5/i/n/indhs-bts-inspiron-7720-aio-nontouch_1.jpg",
+      "https://gadgethubng.com/image/cache/catalog/61UD25ijCTL._AC_SL1500_-1000x1000.jpg"
+  ],
+  "price": 1299.99,
+  "originalPrice": 1399.99,
+  "discount": "7%",
+  "rating": 4.6,
+  "reviewCount": 180,
+  "description": "The Dell Inspiron 27 All-in-One is a powerful, space-saving desktop computer with a 27-inch FHD display, Intel Core processor, and integrated graphics, designed to enhance productivity and entertainment experiences.",
+  "specifications": {
+      "processor": "Intel Core i7 12th Gen",
+      "memory": "16GB DDR4",
+      "storage": "1TB SSD",
+      "display": "27-inch FHD (1920 x 1080)",
+      "graphics": "Intel Iris Xe",
+      "features": ["Wireless Keyboard & Mouse", "Webcam", "Bluetooth 5.1"]
+  },
+  "seller": "Dell Official Store",
+  "availability": "In Stock",
+  "tags": ["Dell", "Inspiron", "All-in-One", "Desktop"],
+  "newProduct": false,
+  "category": "Desktop Computers",
+  "stock": 45,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "809",
+  "productName": "HP Envy Desktop",
+  "images": [
+      "https://www.blessthisstuff.com/imagens/stuff/hp-envy-curved-all-in-one-pc-2.jpg",
+      "https://m.media-amazon.com/images/I/61EQ-8Jj1pS.jpg",
+      "https://www.hp.com/content/dam/sites/worldwide/personal-computers/consumer/desktops/envy-desktop/s9-3hp-envy-34-all-in-one-pc@2x.png",
+      "https://m.media-amazon.com/images/I/61nSIskGtUS.jpg"
+  ],
+  "price": 1499.99,
+  "originalPrice": 1599.99,
+  "discount": "6%",
+  "rating": 4.5,
+  "reviewCount": 200,
+  "description": "The HP Envy Desktop combines powerful performance with a sleek design. Ideal for work and entertainment, it features a high-definition display and advanced hardware for seamless multitasking.",
+  "specifications": {
+      "processor": "Intel Core i7 12th Gen",
+      "memory": "16GB DDR4",
+      "storage": "512GB SSD + 2TB HDD",
+      "display": "34-inch QHD (3440 x 1440)",
+      "graphics": "NVIDIA GeForce GTX 1650",
+      "features": ["Wireless Keyboard & Mouse", "Webcam", "Bluetooth 5.0"]
+  },
+  "seller": "HP Official Store",
+  "availability": "In Stock",
+  "tags": ["HP", "Envy", "Desktop", "All-in-One"],
+  "newProduct": false,
+  "category": "Desktop Computers",
+  "stock": 30,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "810",
+  "productName": "Lenovo ThinkCentre M90a Gen 4 All-in-One",
+  "images": [
+      "https://news.lenovo.com/wp-content/uploads/2023/09/03_Thinkcentre_M90a_Pro_Closeup_Flicker_Free-copy-1024x768.jpg",
+      "https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8Mjk5MzEwfGltYWdlL3BuZ3xoZjAvaGViLzE0MzMyMjU3OTkyNzM0LnBuZ3w2YmVkNGE2ZTgwNjhmYzcyMGU5YzY3ODU3NmYwNWIyZGI3MzY0ZGQ3NDhmOGNhNDg0YTJjMzY2ZjJkYTVjYjNl/lenovo-thinkcentre-m90a-aio-subseries-hero.png",
+      "https://p4-ofp.static.pub/ShareResource/na/products/thinkcentre/1060x596/lenovo-thinkcentre-m90a-gen3.jpg",
+      "https://p1-ofp.static.pub//fes/cms/2023/08/16/h6mppmd03svdkubvpww6iors4ybx1a879298.png"
+  ],
+  "price": 1199.99,
+  "originalPrice": 1299.99,
+  "discount": "7%",
+  "rating": 4.6,
+  "reviewCount": 150,
+  "description": "The Lenovo ThinkCentre M90a Gen 4 All-in-One is designed for modern businesses, offering robust performance, security features, and an ultra-slim design. Perfect for multitasking with its high-definition display and powerful hardware.",
+  "specifications": {
+      "processor": "Intel Core i7 13th Gen",
+      "memory": "16GB DDR4",
+      "storage": "512GB SSD",
+      "display": "23.8-inch FHD (1920 x 1080)",
+      "graphics": "Integrated Intel UHD Graphics",
+      "features": ["Touchscreen", "Built-in Webcam", "Wi-Fi 6"]
+  },
+  "seller": "Lenovo Official Store",
+  "availability": "In Stock",
+  "tags": ["Lenovo", "ThinkCentre", "All-in-One", "Desktop"],
+  "newProduct": true,
+  "category": "Desktop Computers",
+  "stock": 25,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "811",
+  "productName": "Asus ROG Strix G35 (Gaming Desktop)",
+  "images": [
+      "https://dlcdnwebimgs.asus.com/gain/54F303A0-76A1-4DE1-9364-25225AED997C/w260",
+      "https://m.media-amazon.com/images/I/81AL4rropcL.jpg",
+      "https://assets.hardwarezone.com/img/2020/06/asus-rog-strix-g35.jpg",
+      "https://m.media-amazon.com/images/I/71sMMaZsUtL._AC_UF1000,1000_QL80_.jpg"
+  ],
+  "price": 2499.99,
+  "originalPrice": 2699.99,
+  "discount": "7%",
+  "rating": 4.8,
+  "reviewCount": 230,
+  "description": "The Asus ROG Strix G35 is a powerhouse gaming desktop designed for serious gamers. Equipped with cutting-edge hardware, it delivers exceptional performance and graphics quality for the latest games.",
+  "specifications": {
+      "processor": "Intel Core i9 12th Gen",
+      "memory": "32GB DDR5",
+      "storage": "1TB SSD + 2TB HDD",
+      "graphics": "NVIDIA GeForce RTX 3080",
+      "features": ["RGB Lighting", "Custom Cooling", "Wi-Fi 6E"]
+  },
+  "seller": "Asus Official Store",
+  "availability": "In Stock",
+  "tags": ["Asus", "ROG", "Gaming", "Desktop"],
+  "newProduct": true,
+  "category": "Desktop Computers",
+  "stock": 15,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "912",
+  "productName": "Stylish Laptop Bag",
+  "images": [
+      "https://laptoplelo.com/wp-content/uploads/2020/02/b210bl1.jpg",
+      "https://thestationers.pk/cdn/shop/products/best-laptop-bag-3-pocket-the-stationers.jpg?v=1708447684",
+      "https://thestationers.pk/cdn/shop/products/best-laptop-bag-2-pocket-the-stationers.jpg?v=1708447684",
+      "https://starcity.pk/wp-content/uploads/2022/03/Dell-Simplicity-15inch-laptop-bag-in-pakistan-1.jpg"
+  ],
+  "price": 49.99,
+  "originalPrice": 59.99,
+  "discount": "17%",
+  "rating": 4.5,
+  "reviewCount": 85,
+  "description": "This stylish laptop bag offers both functionality and elegance, making it perfect for students and professionals alike. It features multiple pockets for organization and is made from durable materials.",
+  "specifications": {
+      "material": "Water-resistant Nylon",
+      "dimensions": "15.6 inches",
+      "weight": "1.5 lbs",
+      "pockets": "3 exterior, 2 interior"
+  },
+  "seller": "The Stationers",
+  "availability": "In Stock",
+  "tags": ["Laptop Bag", "Accessories", "Stylish", "Durable"],
+  "newProduct": false,
+  "category": "Accessories",
+  "stock": 30,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "913",
+  "productName": "Coolbell Laptop Bag",
+  "images": [
+      "https://static3.webx.pk/files/19643/Images/coolbell-cb-2120-laptop-bag-price-in-pakistan-3-19643-0-290124102431592.jpg",
+      "https://static-01.daraz.pk/p/25fdc7f1e22f73d9bf79167519e67781.jpg",
+      "https://rivacase.com/images/virtuemart/product/8231_blue.6901816082317.ver01_main.jpg",
+      "https://static3.webx.pk/files/19643/Images/coolbell-cb-2088-laptop-bag-grey-price-in-pakistan-2-19643-1963815-280124081800114.jpg"
+  ],
+  "price": 39.99,
+  "originalPrice": 49.99,
+  "discount": "20%",
+  "rating": 4.7,
+  "reviewCount": 110,
+  "description": "The Coolbell Laptop Bag combines style and practicality, designed for modern lifestyles. With ample space for your laptop and accessories, it ensures convenience while on the go.",
+  "specifications": {
+      "material": "Durable Polyester",
+      "dimensions": "15.6 inches",
+      "weight": "1.2 lbs",
+      "pockets": "4 exterior, 3 interior"
+  },
+  "seller": "Coolbell Store",
+  "availability": "In Stock",
+  "tags": ["Laptop Bag", "Accessories", "Coolbell", "Durable"],
+  "newProduct": false,
+  "category": "Accessories",
+  "stock": 50,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+}
+
+]

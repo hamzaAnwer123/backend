@@ -1,13 +1,16 @@
 const Product = require('../models/products.model');
 
 const getAllProducts = async (req,res)=>{
-    const { category ,productName,newProduct,sort,select}  = req.query;
+    const { category ,productName,productId,newProduct,sort,select}  = req.query;
     const  QueryObject = {};
     if(category){
         QueryObject.category = category;
     }
     if(newProduct){
         QueryObject.newProduct = newProduct;
+    }
+    if(productId){
+        QueryObject.productId = productId;
     }
     if(productName){
         QueryObject.productName = {$regex : productName, $options : 'i'};

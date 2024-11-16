@@ -1,16 +1,15 @@
-
-
-
 const Product = require('../models/products.model');
 
+// Controller to get all products with filters, search, sorting, and pagination
 const getAllProducts = async (req, res) => {
   try {
-    const { category, search, productId, newProduct, sort, select } = req.query;
+    // Extract query parameters
+    const { category, Search, productId, newProduct, sort, select, productName, description } = req.query;
 
     // Initialize query object
     const QueryObject = {};
 
-    // Add category and other filters
+    // Add filters based on query parameters
     if (category) {
       QueryObject.category = category;
     }
@@ -20,13 +19,11 @@ const getAllProducts = async (req, res) => {
     if (productId) {
       QueryObject.productId = productId;
     }
-
-    // Add search logic for both productName and description
-    if (search) {
-      QueryObject.$or = [
-        { productName: { $regex: search, $options: 'i' } }, // Case-insensitive search in productName
-        { description: { $regex: search, $options: 'i' } }, // Case-insensitive search in description
-      ];
+    if (productName) {
+      QueryObject.productName = { $regex: productName, $options: 'i' }; // Case-insensitive search for productName
+    }
+    if (description) {
+      QueryObject.description = { $regex: description, $options: 'i' }; // Case-insensitive search for description
     }
 
     // Build the query
@@ -34,13 +31,13 @@ const getAllProducts = async (req, res) => {
 
     // Apply sorting
     if (sort) {
-      let sortFix = sort.split(',').join(' ');
+      let sortFix = sort.split(",").join(" ");
       apiData = apiData.sort(sortFix);
     }
 
     // Apply field selection
     if (select) {
-      let selectFix = select.split(',').join(' ');
+      let selectFix = select.split(",").join(" ");
       apiData = apiData.select(selectFix);
     }
 
@@ -53,7 +50,7 @@ const getAllProducts = async (req, res) => {
     // Execute query
     const ProductData = await apiData;
 
-    // Total product count
+    // Total product count (used for pagination metadata)
     const totalProducts = await Product.countDocuments(QueryObject);
 
     res.status(200).json({
@@ -69,4 +66,15 @@ const getAllProducts = async (req, res) => {
   }
 };
 
-module.exports = { getAllProducts };
+// Controller for simple query testing
+const getAllProductsTesting = async (req, res) => {
+  try {
+    const ProductData = await Product.find(req.query);
+    res.status(200).json(ProductData);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ error: 'An error occurred during testing.' });
+  }
+};
+
+module.exports = { getAllProducts, getAllProductsTesting };

@@ -42,7 +42,7 @@ const getAllProducts = async (req, res) => {
     }
 
     // Pagination logic
-    let page = Number(req.query.page) || 1;
+    let page = Number(req.query.page) || 0;
     let limit = Number(req.query.limit) || 10;
     let skip = (page - 1) * limit;
     apiData = apiData.skip(skip).limit(limit);

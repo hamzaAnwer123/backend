@@ -56,7 +56,7 @@ const productSchema = new mongoose.Schema({
     default: null,
   },
   seller: {
-    type: String,
+    type: Object,
   },
   availability: {
     type: String,

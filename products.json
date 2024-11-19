@@ -1,3 +1,4 @@
+
 [
   {
     "productId": "101",
@@ -565,7 +566,7 @@
   }
 },
 {
-  "productId": "8011",
+  "productId": "801",
   "productName": "USB Type-C Charging Cable",
   "images": [
       "https://oneclickshopping.pk/wp-content/uploads/2022/04/ce9dde0d3de10e0445cb196.png",
@@ -1027,6 +1028,2186 @@
   "newProduct": false,
   "category": "Accessories",
   "stock": 50,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+}
+,
+{
+  "productId": "1012",
+  "productName": "Apple Watch Series 9",
+  "images": [
+      "https://appleman.pk/cdn/shop/files/9_4d091a62-ae04-497b-8aaf-0a240410efc2.png?v=1694859933&width=2025",
+      "https://rhizmall.pk/wp-content/uploads/2024/01/6340266_sd-scaled.webp",
+      "https://atechmall.pk/wp-content/uploads/2024/04/apple-watch-series-9-45mm-pakistan-priceoye-vzcen.jpg",
+      "https://www.apple.com/ecc-shared/apple-watch-series-9/images/overview/hero/hero_endframe__bkh9oofkh2dy_large.jpg"
+  ],
+  "price": 399.99,
+  "originalPrice": 429.99,
+  "discount": "7%",
+  "rating": 4.9,
+  "reviewCount": 321,
+  "description": "The Apple Watch Series 9 is a cutting-edge smartwatch packed with advanced health features, precise fitness tracking, and seamless integration with your Apple ecosystem.",
+  "specifications": {
+      "screenSize": "45mm Retina Display",
+      "processor": "Apple S9 Chip",
+      "connectivity": "Wi-Fi, Bluetooth 5.3, GPS",
+      "batteryLife": "18 hours",
+      "waterResistance": "50m",
+      "healthFeatures": ["Blood Oxygen Sensor", "ECG", "Heart Rate Monitor"]
+  },
+  "seller": "Apple Official Store",
+  "availability": "In Stock",
+  "tags": ["Apple Watch", "SmartWatches", "Series 9", "Fitness", "Health Tracking"],
+  "newProduct": true,
+  "category": "SmartWatches",
+  "stock": 120,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "1013",
+  "productName": "Samsung Galaxy Watch 6",
+  "images": [
+      "https://xcessorieshub.com/wp-content/uploads/2023/07/Samsung-Galaxy-Watch-6-40mm-1.webp",
+      "https://xcessorieshub.com/wp-content/uploads/2024/07/Samsung-Galaxy-Watch-6-Classic-47mm-LTE.webp",
+      "https://www.zdnet.com/a/img/resize/2337432c933fc5c599ecf6cfad41c5aaa296db6e/2023/07/25/f8cd1253-86ee-4811-b93a-29e74b8f66a2/galaxy-watch-6.jpg?auto=webp&fit=crop&height=1200&width=1200",
+      "https://m.media-amazon.com/images/I/61fDRIfPQEL.jpg"
+  ],
+  "price": 349.99,
+  "originalPrice": 399.99,
+  "discount": "12%",
+  "rating": 4.8,
+  "reviewCount": 278,
+  "description": "The Samsung Galaxy Watch 6 is a stylish and versatile smartwatch designed for fitness enthusiasts and tech-savvy users. With enhanced tracking capabilities and a sleek design, it is perfect for everyday use.",
+  "specifications": {
+      "screenSize": "1.5-inch AMOLED",
+      "processor": "Exynos W930",
+      "connectivity": "Bluetooth, Wi-Fi, LTE",
+      "batteryLife": "Up to 40 hours",
+      "waterResistance": "5 ATM",
+      "healthFeatures": ["Sleep Tracking", "Heart Rate Monitor", "Blood Oxygen Monitoring"]
+  },
+  "seller": "Samsung Official Store",
+  "availability": "In Stock",
+  "tags": ["Samsung Galaxy Watch", "SmartWatches", "Fitness", "Health Tracking"],
+  "newProduct": true,
+  "category": "SmartWatches",
+  "stock": 95,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "1014",
+  "productName": "Garmin Forerunner 965",
+  "images": [
+      "https://www.garmin.pk/images/product_gallery/1677848022_010-02809-00.webp",
+      "https://www.garmin.pk/images/product_gallery/1677848752_010-02809-02.webp",
+      "https://res.garmin.com/transform/image/upload/b_rgb:FFFFFF,c_pad,dpr_2.0,f_auto,h_400,q_auto,w_400/c_pad,h_400,w_400/v1/Product_Images/en/products/010-02809-22/v/rf-xl?pgw=1",
+      "https://www.garmin.com.my/m/my/g/products/forerunner965-black-pd-04-lg.jpg"
+  ],
+  "price": 599.99,
+  "originalPrice": 649.99,
+  "discount": "8%",
+  "rating": 4.7,
+  "reviewCount": 153,
+  "description": "The Garmin Forerunner 965 is a premium multisport smartwatch designed for professional athletes and fitness enthusiasts. Featuring advanced training tools, GPS navigation, and comprehensive health tracking, it is the ultimate companion for your workouts and adventures.",
+  "specifications": {
+      "screenSize": "1.4-inch AMOLED",
+      "batteryLife": "Up to 23 days (Smartwatch mode), 31 hours (GPS mode)",
+      "connectivity": "Bluetooth, Wi-Fi, ANT+",
+      "waterResistance": "5 ATM",
+      "healthFeatures": [
+          "Heart Rate Monitoring",
+          "Pulse Ox",
+          "Body Battery Energy Monitoring",
+          "VO2 Max"
+      ],
+      "sportsModes": ["Running", "Cycling", "Swimming", "Triathlon"],
+      "navigation": "Multi-GNSS with Mapping"
+  },
+  "seller": "Garmin Official Store",
+  "availability": "In Stock",
+  "tags": ["Garmin", "SmartWatches", "Fitness", "Professional Athletes"],
+  "newProduct": true,
+  "category": "SmartWatches",
+  "stock": 45,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "1015",
+  "productName": "Fitbit Sense 3",
+  "images": [
+      "https://www.cnet.com/a/img/resize/12b1d4b824f2010ad4297f358785a77810797c1d/hub/2020/08/25/455c56f4-d053-4de7-ae18-02dd514ff988/fitbit-sense-sapphire-fog-grey-sport-crop-left.jpg?auto=webp&fit=crop&height=1200&width=1200",
+      "https://lh3.googleusercontent.com/XOpWw_plBGcH0LtVVp80msx4zsUy97Cn8YkSyPLek3LIN1i6Qo9b5SObhQYvVoDJ9OqT6fNrValuRQjOYQXNJt2WwD9plUHSw6LoF6pv=rw-e365-nu-w1050-v1",
+      "https://www.withitgear.com/cdn/shop/products/WI-T-VS3-001-118-WB-01_457da01c-f162-40b3-af10-2b2332d7c087.jpg?v=1708093300&width=2048",
+      "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6436/6436878_rd.jpg;maxHeight=640;maxWidth=550;format=webp"
+  ],
+  "price": 329.99,
+  "originalPrice": 399.99,
+  "discount": "17%",
+  "rating": 4.6,
+  "reviewCount": 212,
+  "description": "The Fitbit Sense 3 is an advanced health smartwatch offering cutting-edge features such as stress management, heart rate tracking, and sleep monitoring. With its sleek design and multi-day battery life, it is the perfect companion for a healthier lifestyle.",
+  "specifications": {
+      "screenSize": "1.58-inch AMOLED",
+      "batteryLife": "Up to 6 days",
+      "connectivity": "Bluetooth, Wi-Fi, NFC",
+      "waterResistance": "50m",
+      "healthFeatures": [
+          "ECG App",
+          "EDA Scan App",
+          "Heart Rate Monitoring",
+          "Sleep Tracking"
+      ],
+      "fitnessTracking": ["Active Zone Minutes", "Built-in GPS", "Daily Readiness Score"],
+      "smartFeatures": ["Google Assistant", "Amazon Alexa", "Contactless Payments"]
+  },
+  "seller": "Fitbit Official Store",
+  "availability": "In Stock",
+  "tags": ["Fitbit", "SmartWatches", "Health Tracking", "Lifestyle"],
+  "newProduct": false,
+  "category": "SmartWatches",
+  "stock": 38,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "1016",
+  "productName": "Google Pixel Watch 2",
+  "images": [
+      "https://www.aysonline.pk/wp-content/uploads/2024/07/lg_D3KkAb394jKeKI94aKSiDUgTsKG3C.jpg",
+      "https://media.wired.com/photos/652845a922822ecc9d50cffe/master/w_2560%2Cc_limit/Google-Pixel-Watch-2-Top-Gear.jpg",
+      "https://xcessorieshub.com/wp-content/uploads/2024/04/Google-Pixel-Watch-2-Matte-Black-Aluminium-1.jpg",
+      "https://cdn.vox-cdn.com/thumbor/AmElXrvB4zCuDrqV60C7NOzTmG8=/0x0:2040x1360/1400x1400/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24992608/236828_Pixel_Watch_2_AKrales_0191.jpg"
+  ],
+  "price": 349.99,
+  "originalPrice": 399.99,
+  "discount": "12%",
+  "rating": 4.7,
+  "reviewCount": 185,
+  "description": "The Google Pixel Watch 2 combines cutting-edge health and fitness tracking with the powerful features of Wear OS. Designed with sleek aesthetics and advanced capabilities, it's your ideal smartwatch for seamless connectivity and a healthier lifestyle.",
+  "specifications": {
+      "screenSize": "1.2-inch AMOLED",
+      "batteryLife": "Up to 24 hours",
+      "connectivity": "Bluetooth, Wi-Fi, LTE, NFC",
+      "waterResistance": "5 ATM",
+      "healthFeatures": [
+          "Heart Rate Monitoring",
+          "SpO2 Monitoring",
+          "Stress Management",
+          "Sleep Tracking"
+      ],
+      "fitnessTracking": [
+          "Built-in GPS",
+          "Active Zone Minutes",
+          "Daily Readiness Score"
+      ],
+      "smartFeatures": [
+          "Google Assistant",
+          "Google Wallet",
+          "Find My Phone",
+          "Smart Notifications"
+      ]
+  },
+  "seller": "Google Store",
+  "availability": "In Stock",
+  "tags": ["Google", "Pixel Watch", "SmartWatches", "Fitness", "Health"],
+  "newProduct": true,
+  "category": "SmartWatches",
+  "stock": 52,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2016",
+  "productName": "Logitech MX Keys Advanced",
+  "images": [
+      "https://alhamdtech.pk/cdn/shop/files/logitech-mx-keys-advanced-wireless-illuminated-keyboard-607042.png?v=1722252525",
+      "https://logitech.onlinesalestore.pk/cdn/shop/files/Logitech-MX-Keys-Plus-Keyboard-920-009416-product-image-tilted-view.jpg?v=1703068698",
+      "https://i0.wp.com/www.carplaylife.com/wp-content/uploads/2020/02/Logtitech-MX-1-Feature.jpg?fit=1024%2C768&ssl=1",
+      "https://popular.com.sg/cdn/shop/files/logitech-mx-keyboard.jpg?v=1698292899"
+  ],
+  "price": 119.99,
+  "originalPrice": 149.99,
+  "discount": "20%",
+  "rating": 4.8,
+  "reviewCount": 320,
+  "description": "The Logitech MX Keys Advanced is the ultimate wireless keyboard for precision, performance, and comfort. Featuring smart illumination, ergonomic design, and cross-device compatibility, it's perfect for professionals and creators who demand the best.",
+  "specifications": {
+      "keyFeatures": [
+          "Perfect Stroke keys for fluid typing",
+          "Smart illumination with proximity sensors",
+          "Multi-device and cross-OS compatibility",
+          "USB-C rechargeable with long battery life"
+      ],
+      "connectivity": "Bluetooth and USB Receiver",
+      "batteryLife": "Up to 10 days with backlight, 5 months without",
+      "compatibility": [
+          "Windows",
+          "macOS",
+          "Linux",
+          "iOS",
+          "Android"
+      ],
+      "dimensions": "430.2 mm x 131.63 mm x 20.5 mm",
+      "weight": "810 g"
+  },
+  "seller": "Logitech Official Store",
+  "availability": "In Stock",
+  "tags": ["Logitech", "Keyboard", "Accessories", "Wireless", "Ergonomic"],
+  "newProduct": true,
+  "category": "Accessories",
+  "stock": 45,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2017",
+  "productName": "Razer BlackWidow V4 Pro",
+  "images": [
+    "https://assets2.razerzone.com/images/pnx.assets/606abdcd00fb1940a711230219316f87/razer-blackwidow-v4-pro-75-500x500.webp",
+      "https://assets2.razerzone.com/images/pnx.assets/5f7b24d93d7d8af1e68f9b7cbb5b7b85/razer-blackwidow-v4-pro-75-500x500.webp",
+      "https://static3.webx.pk/files/19643/Images/razer-blackwidow-v4-x-keyboard-price-in-pakistan-3-19643-0-061023090302897.jpg",
+      "https://typeshop.pk/wp-content/uploads/2024/09/untitled-design-94-1200x1200.png"
+  ],
+  "price": 199.99,
+  "originalPrice": 249.99,
+  "discount": "20%",
+  "rating": 4.7,
+  "reviewCount": 270,
+  "description": "The Razer BlackWidow V4 Pro is a top-tier mechanical gaming keyboard designed for unmatched precision and control. Featuring Razer's advanced mechanical switches, per-key RGB lighting, and a premium build, this keyboard is perfect for gamers seeking the ultimate competitive edge.",
+  "specifications": {
+      "keyFeatures": [
+          "Razer Mechanical Switches for tactile feedback",
+          "Per-key RGB Chroma lighting",
+          "Dedicated media controls and customizable macro keys",
+          "Detachable wrist rest for ergonomic comfort",
+          "Durable aluminum top plate"
+      ],
+      "connectivity": "USB-C",
+      "keySwitch": "Green (Clicky) or Yellow (Silent)",
+      "compatibility": [
+          "Windows",
+          "macOS"
+      ],
+      "dimensions": "475 mm x 170 mm x 45 mm",
+      "weight": "1.2 kg"
+  },
+  "seller": "Razer Official Store",
+  "availability": "In Stock",
+  "tags": ["Razer", "Gaming", "Keyboard", "Mechanical", "RGB"],
+  "newProduct": true,
+  "category": "Accessories",
+  "stock": 35,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2018",
+  "productName": "Keychron K3 Ultra-Slim Wireless Mechanical Keyboard",
+  "images": [
+      "https://keychron.be/cdn/shop/files/SKU-01-BrownSwitches.jpg?v=1711598077&width=1214",
+      "https://keychron.be/cdn/shop/files/KeychronK3frenchisomechanicalkeyboardgateronkeychronlowprofilebrownswitchrgbbacklight.jpg?v=1711598086&width=1214",
+      "https://tecroot.lk/wp-content/uploads/2022/04/Keychron-K3-Ultra-Slim-Wireless-Mechanical-Keyboard-Version-2-Non-Backlight-Low-Profile-Gateron-Mechanical-Brown-1.jpg1_-1.jpg",
+      "https://cdn2.electronicscrazy.sg/Productimage/2022-07-2603-00-5665.webp"
+  ],
+  "price": 89.99,
+  "originalPrice": 109.99,
+  "discount": "18%",
+  "rating": 4.5,
+  "reviewCount": 320,
+  "description": "The Keychron K3 Ultra-Slim Wireless Mechanical Keyboard combines portability with premium mechanical switches for a seamless typing experience. Designed for productivity and gaming, it offers wireless and wired connectivity with ultra-slim, low-profile keys.",
+  "specifications": {
+      "keyFeatures": [
+          "Ultra-slim, low-profile mechanical switches",
+          "Wireless (Bluetooth 5.1) and wired connectivity",
+          "Compact 75% layout",
+          "RGB backlighting with multiple effects",
+          "Mac and Windows compatibility"
+      ],
+      "connectivity": "Bluetooth 5.1 / USB-C",
+      "switchOptions": "Gateron (Brown, Blue, Red)",
+      "batteryLife": "Up to 34 hours (with RGB on)",
+      "dimensions": "306 mm x 116 mm x 22 mm",
+      "weight": "395 g"
+  },
+  "seller": "Keychron Official Store",
+  "availability": "In Stock",
+  "tags": ["Keychron", "Mechanical Keyboard", "Wireless", "Ultra-Slim", "Accessories"],
+  "newProduct": true,
+  "category": "Accessories",
+  "stock": 50,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2019",
+  "productName": "Apple Magic Keyboard with Touch ID",
+  "images": [
+      "https://www.refurbished.store/cache/images/magic-keyboard-groen_600x600_BGresize_16777215-tj.png",
+      "https://eshop.macsales.com/images/_gallery_/bin/APLMK293LLABLA-pimid81988-xl.jpg",
+      "https://warehousedad.com/cdn/shop/files/38_346e6a6d-f016-4968-8be1-06ac7501a850_1200x1200.png?v=1699234443",
+      "https://www.smartgeneration.it/wp-content/uploads/2023/04/KIT-MOUSE-TASIERA-BLU-2.jpg"
+  ],
+  "price": 129.99,
+  "originalPrice": 149.99,
+  "discount": "13%",
+  "rating": 4.8,
+  "reviewCount": 520,
+  "description": "Experience effortless typing and enhanced security with the Apple Magic Keyboard with Touch ID. Designed for Mac, this wireless keyboard offers a sleek, minimalist design, advanced key stability, and built-in biometric security for seamless authentication.",
+  "specifications": {
+      "keyFeatures": [
+          "Touch ID for secure authentication",
+          "Wireless Bluetooth connectivity",
+          "Rechargeable battery with long-lasting performance",
+          "Compact and lightweight design",
+          "Compatible with Mac systems featuring Apple silicon"
+      ],
+      "connectivity": "Bluetooth / USB-C to Lightning",
+      "batteryLife": "Up to 1 month per charge",
+      "dimensions": "279 mm x 114 mm x 11 mm",
+      "weight": "239 g"
+  },
+  "seller": "Apple Official Store",
+  "availability": "In Stock",
+  "tags": ["Apple", "Keyboard", "Wireless", "Touch ID", "Accessories"],
+  "newProduct": true,
+  "category": "Accessories",
+  "stock": 75,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2020",
+  "productName": "Das Keyboard 4 Professional",
+  "images": [
+      "https://m.media-amazon.com/images/I/41zy40VtU1L._QL92_SH45_SS200_.jpg",
+      "https://shop.daskeyboard.com/cdn/shop/products/daskeyboard-4-professional-quarter-board-gray_medium.jpg?v=1668644297",
+      "https://www.getdigital.co.uk/cdn/shop/files/productImage-11359-das-keyboard-4-professional-7_700x700.png?v=1720635853",
+      "https://www.getdigital.co.uk/cdn/shop/files/productImage-11359-das-keyboard-4-professional-10_700x700.png?v=1720635853"
+  ],
+  "price": 169.00,
+  "originalPrice": 199.00,
+  "discount": "15%",
+  "rating": 4.6,
+  "reviewCount": 312,
+  "description": "The Das Keyboard 4 Professional is a top-tier mechanical keyboard built for productivity and durability. With Cherry MX switches, an anodized aluminum top panel, and a convenient volume knob, it delivers precision, speed, and style.",
+  "specifications": {
+      "keyFeatures": [
+          "Cherry MX Mechanical Switches for unmatched tactile feedback",
+          "Dedicated media controls with a large volume knob",
+          "Two-port USB 3.0 hub for quick connectivity",
+          "Anodized aluminum top panel for durability",
+          "Full N-Key Rollover and Anti-Ghosting"
+      ],
+      "connectivity": "USB Wired",
+      "keySwitches": "Cherry MX Blue / Cherry MX Brown",
+      "dimensions": "457 mm x 173 mm x 20 mm",
+      "weight": "1.3 kg"
+  },
+  "seller": "Das Keyboard Official Store",
+  "availability": "In Stock",
+  "tags": ["Das Keyboard", "Mechanical Keyboard", "Cherry MX", "Professional", "Accessories"],
+  "newProduct": false,
+  "category": "Accessories",
+  "stock": 60,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2022",
+  "productName": "Razer DeathAdder V3 Pro",
+  "images": [
+      "https://www.cnet.com/a/img/resize/e70ee1bd6cbbfa8935de574e041066b666d5f650/hub/2022/08/10/49faff59-2535-4a1b-ac08-54a92a25c548/deathadder-v3-pro-271-h-r2.jpg?auto=webp&fit=crop&height=1200&width=1200",
+      "https://ecityuae.ae/cdn/shop/files/8886419334163_1.jpg?v=1716884517",
+      "https://eezepc.com/wp-content/uploads/2023/08/RZ01-04630200-R3A1-EEZEPC-2.webp",
+      "https://www.maxgaming.com/bilder/artiklar/zoom/23381_1.jpg?m=1678362620"
+  ],
+  "price": 149.99,
+  "originalPrice": 169.99,
+  "discount": "12%",
+  "rating": 4.9,
+  "reviewCount": 789,
+  "description": "The Razer DeathAdder V3 Pro is an ultra-lightweight wireless gaming mouse built for esports dominance. Featuring a Focus Pro 30K optical sensor, HyperSpeed wireless technology, and a legendary ergonomic design, this is the mouse for serious gamers.",
+  "specifications": {
+      "keyFeatures": [
+          "Focus Pro 30K optical sensor for extreme precision",
+          "Razer HyperSpeed Wireless technology for ultra-low latency",
+          "Ultra-lightweight design weighing only 63g",
+          "Razer Optical Mouse Switches Gen-3 for a longer lifespan",
+          "Ergonomic shape for comfortable gaming sessions"
+      ],
+      "connectivity": "Razer HyperSpeed Wireless & USB-C Cable",
+      "batteryLife": "Up to 90 hours (HyperSpeed Wireless)",
+      "dimensions": "128 mm x 68 mm x 44 mm",
+      "weight": "63 g"
+  },
+  "seller": "Razer Official Store",
+  "availability": "In Stock",
+  "tags": ["Razer", "Gaming Mouse", "Wireless Mouse", "Accessories"],
+  "newProduct": true,
+  "category": "Accessories",
+  "stock": 120,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2023",
+  "productName": "SteelSeries Aerox 5 Wireless",
+  "images": [
+      "https://ls6iibytsc.eu.scalesta-cdn.com/snmuzjT_ySRZ38Bm-WzPxFEBl3U=/filters:format(webp):fill(fff):quality(90)/www.gstoreq8.com/images/detailed/138/%D8%B5%D9%88%D8%B1%D8%A9_%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8_%D8%A8%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_1444-10-20_%D9%81%D9%8A_17.15.11.jpg",
+      "https://eezepc.com/wp-content/uploads/2023/01/aerox-5-EEZEPC-3.png",
+      "https://static3.webx.pk/files/19643/Images/steelseries-aerox-5-wireless-gaming-mouse-black-price-in-pak-19643-0-270224085229183.jpg",
+      "https://media.steelseriescdn.com/thumbs/filer_public/44/ac/44ac5918-0fee-4a49-9b3b-5820fc219a6f/aerox_5_black_img_buy_02.png__1920x1080_crop-fit_optimize_subsampling-2.png"
+  ],
+  "price": 129.99,
+  "originalPrice": 149.99,
+  "discount": "13%",
+  "rating": 4.7,
+  "reviewCount": 654,
+  "description": "The SteelSeries Aerox 5 Wireless is an ultra-lightweight gaming mouse designed for speed and versatility. Featuring AquaBarrier protection, Quantum 2.0 Wireless technology, and customizable buttons, it is perfect for fast-paced gaming.",
+  "specifications": {
+      "keyFeatures": [
+          "Ultra-lightweight design at only 74g",
+          "Quantum 2.0 Wireless with Bluetooth connectivity",
+          "IP54-rated AquaBarrier technology for water and dust resistance",
+          "Up to 180 hours of battery life",
+          "Customizable side buttons for a personalized experience"
+      ],
+      "connectivity": "Wireless (Quantum 2.0 and Bluetooth)",
+      "batteryLife": "Up to 180 hours",
+      "dimensions": "128.8 mm x 62.8 mm x 26.7 mm",
+      "weight": "74 g"
+  },
+  "seller": "SteelSeries Official Store",
+  "availability": "In Stock",
+  "tags": ["SteelSeries", "Gaming Mouse", "Wireless Mouse", "Accessories"],
+  "newProduct": false,
+  "category": "Accessories",
+  "stock": 145,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2024",
+  "productName": "Corsair Dark Core RGB Pro SE",
+  "images": [
+      "https://techmatched.pk/wp-content/uploads/2024/06/1-10.png",
+      "https://elitegamingstore.pk/wp-content/uploads/2023/12/B082LVNHW9-0-1702467950492-500x500.jpg",
+      "https://thegamesmen.pk/wp-content/uploads/2023/03/71gAf5f91L._AC_SX679_.webp",
+      "https://m.media-amazon.com/images/I/81RUmcuHIvL._AC_UF350,350_QL80_.jpg"
+  ],
+  "price": 99.99,
+  "originalPrice": 119.99,
+  "discount": "17%",
+  "rating": 4.6,
+  "reviewCount": 432,
+  "description": "The Corsair Dark Core RGB Pro SE is a high-performance wireless gaming mouse with ultra-low latency and customizable RGB lighting. It features Qi wireless charging, an ergonomic design, and a precision sensor for competitive gaming.",
+  "specifications": {
+      "keyFeatures": [
+          "Wireless connectivity with sub-1ms SLIPSTREAM technology",
+          "Customizable dynamic RGB lighting",
+          "Qi wireless charging capability",
+          "18,000 DPI optical sensor for pinpoint accuracy",
+          "Comfortable ergonomic shape for extended use"
+      ],
+      "connectivity": "Wireless (SLIPSTREAM and Bluetooth), Wired (USB-C)",
+      "batteryLife": "Up to 50 hours",
+      "dimensions": "127 mm x 89 mm x 43 mm",
+      "weight": "133 g"
+  },
+  "seller": "Corsair Official Store",
+  "availability": "In Stock",
+  "tags": ["Corsair", "Gaming Mouse", "Wireless Mouse", "Accessories"],
+  "newProduct": false,
+  "category": "Accessories",
+  "stock": 120,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2025",
+  "productName": "Apple Magic Mouse 3",
+  "images": [
+      "https://static3.webx.pk/files/4012/Images/1-4012-1115701-020822060002527.jpeg",
+      "https://lh4.googleusercontent.com/proxy/htNyFK6DDIfxrmgCWQcB4jZ9gHGXZ8WrNa1sJkTVLFp4H58f2fYsiyVYscZTZtye5p-5j-DFWNkxQ4u9pnFpNBiS-oWyv5vCFdln1AsooHeOwEv8TvGhnoXZAWq3L7Wn9FNmXAHD11tkVuthiJYsGhgA1-91CQ",
+      "https://images.musicstore.de/images/0960/apple-magic-mouse-3-weiss_1_PCM0017181-000.jpg",
+      "https://greentec.co.uk/cdn/shop/files/Apple_mouses.jpg?v=1718009401"
+  ],
+  "price": 89.99,
+  "originalPrice": 99.99,
+  "discount": "10%",
+  "rating": 4.8,
+  "reviewCount": 289,
+  "description": "The Apple Magic Mouse 3 is an advanced wireless mouse with a sleek, minimalist design, featuring multi-touch gestures and smooth scrolling for seamless navigation. Perfectly designed for macOS, it delivers precision and style.",
+  "specifications": {
+      "keyFeatures": [
+          "Seamless multi-touch surface for gestures and scrolling",
+          "Rechargeable battery with long-lasting performance",
+          "Bluetooth connectivity for wireless use",
+          "Minimalist and ergonomic design",
+          "Optimized for macOS"
+      ],
+      "connectivity": "Wireless (Bluetooth), Lightning to USB-C cable",
+      "batteryLife": "Up to 30 days on a single charge",
+      "dimensions": "114.9 mm x 57.1 mm x 21.3 mm",
+      "weight": "99 g"
+  },
+  "seller": "Apple Authorized Store",
+  "availability": "In Stock",
+  "tags": ["Apple", "Magic Mouse", "Wireless Mouse", "Accessories"],
+  "newProduct": false,
+  "category": "Accessories",
+  "stock": 75,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2026",
+  "productName": "Sony WH-1000XM5",
+  "images": [
+      "https://i0.wp.com/pcstore.pk/wp-content/uploads/2023/07/Sony-WH-1000XM5-Wireless-Noise-Canceling-Headphones-blue-Pcstore-Price-in-pakistan-img1-min.png?fit=1000%2C1000&ssl=1",
+      "https://alhamdtech.pk/cdn/shop/files/sony-wh-1000xm5-bluetooth-headphones-659186.png?v=1722252843",
+      "https://bnwcollections.com/uploads/products/galleries/ZMtgWH-1000XM5-bnw-3_11zon.webp",
+      "https://games4u.pk/cdn/shop/files/sony_headphone_10.jpg?v=1729879647"
+  ],
+  "price": 349.99,
+  "originalPrice": 399.99,
+  "discount": "13%",
+  "rating": 4.9,
+  "reviewCount": 752,
+  "description": "The Sony WH-1000XM5 is the latest in noise-canceling technology, delivering immersive sound with enhanced comfort. Designed for audiophiles, it features up to 30 hours of battery life, seamless Bluetooth connectivity, and industry-leading noise cancellation.",
+  "specifications": {
+      "keyFeatures": [
+          "Industry-leading noise cancellation",
+          "Up to 30 hours of battery life",
+          "Touch sensor controls for easy operation",
+          "Built-in microphone for hands-free calls",
+          "High-resolution audio with LDAC support",
+          "Comfortable, lightweight design"
+      ],
+      "connectivity": "Wireless (Bluetooth 5.2), 3.5mm audio jack",
+      "batteryLife": "Up to 30 hours",
+      "dimensions": "196.0 mm x 166.0 mm x 63.0 mm",
+      "weight": "250 g"
+  },
+  "seller": "Sony Official Store",
+  "availability": "In Stock",
+  "tags": ["Sony", "Headphones", "Noise Cancelling", "Bluetooth", "Wireless"],
+  "newProduct": true,
+  "category": "Headphones",
+  "stock": 120,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2027",
+  "productName": "Apple AirPods Max",
+  "images": [
+      "https://airpods.pk/wp-content/uploads/2023/12/apple-airpods-max-in-Pakistan.webp",
+      "https://cityshop.com.pk/wp-content/uploads/2024/09/apple-airpods-max-2024-all-colors.jpg",
+      "https://hmnstudio.com/cdn/shop/files/WhatsApp_Image_2024-07-24_at_7.13.21_PM.jpg?v=1721830617",
+      "https://www.thehypercart.com/wp-content/uploads/2023/08/WhatsApp-Image-2024-02-02-at-12.31.46-PM-1.jpeg"
+  ],
+  "price": 549.99,
+  "originalPrice": 599.99,
+  "discount": "8%",
+  "rating": 4.8,
+  "reviewCount": 315,
+  "description": "The Apple AirPods Max delivers exceptional sound quality with active noise cancellation and spatial audio. Crafted with precision, the headphones are equipped with custom-built drivers and powerful processing for immersive listening experiences.",
+  "specifications": {
+      "keyFeatures": [
+          "Active Noise Cancellation (ANC) and Transparency Mode",
+          "Spatial audio with dynamic head tracking",
+          "Custom-built Apple H1 chip for high-fidelity audio",
+          "Digital crown for volume control and playback",
+          "Up to 20 hours of listening time with ANC and spatial audio",
+          "Lightweight stainless steel frame with breathable knit mesh canopy"
+      ],
+      "connectivity": "Wireless (Bluetooth 5.0)",
+      "batteryLife": "Up to 20 hours with ANC and spatial audio",
+      "dimensions": "187.3 mm x 168.6 mm x 83.4 mm",
+      "weight": "384.8 g"
+  },
+  "seller": "Apple Official Store",
+  "availability": "In Stock",
+  "tags": ["Apple", "Headphones", "Noise Cancelling", "Spatial Audio", "Wireless"],
+  "newProduct": true,
+  "category": "Headphones",
+  "stock": 75,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2028",
+  "productName": "Bose QuietComfort 45",
+  "images": [
+      "https://appleman.pk/cdn/shop/files/8_16ebafea-91c7-4885-9f7c-b368d42b23d1.png?v=1709464140&width=2048",
+      "https://shop.ucom.am/media/catalog/product/cache/f0d04c535eae714fecfa8deb2c47c63b/q/c/qc45_tripleblack_001_rgb_2_1.webp",
+      "https://www.slickwraps.com/cdn/shop/files/Color_Purple_54025a7c-ea4a-4854-a9f8-c71126bfb9f9.jpg?v=1711883474",
+      "https://myshop.pk/pub/media/catalog/product/cache/26f8091d81cea4b38d820a1d1a4f62be/_/b/_bose_-myshop-pk-5.jpg"
+  ],
+  "price": 329.99,
+  "originalPrice": 379.99,
+  "discount": "13%",
+  "rating": 4.7,
+  "reviewCount": 245,
+  "description": "The Bose QuietComfort 45 headphones offer exceptional noise cancellation, comfort, and high-quality sound. Featuring Bluetooth connectivity and long battery life, they are perfect for travelers and daily commuters seeking the ultimate listening experience.",
+  "specifications": {
+      "keyFeatures": [
+          "Industry-leading Noise Cancellation",
+          "Up to 24 hours of battery life",
+          "Bluetooth 5.1 for wireless connectivity",
+          "TriPort acoustic architecture for superior sound",
+          "Lightweight and comfortable design",
+          "Customizable EQ settings"
+      ],
+      "connectivity": "Wireless (Bluetooth 5.1)",
+      "batteryLife": "Up to 24 hours",
+      "dimensions": "178.5 mm x 102 mm x 140.5 mm",
+      "weight": "240 g"
+  },
+  "seller": "Bose Official Store",
+  "availability": "In Stock",
+  "tags": ["Bose", "Headphones", "Noise Cancelling", "Wireless", "Comfort"],
+  "newProduct": false,
+  "category": "Headphones",
+  "stock": 50,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2029",
+  "productName": "Sennheiser Momentum 4 Wireless",
+  "images": [
+      "https://cdn.uc.assets.prezly.com/d79cea16-6028-46fe-831f-167e9fa54479/-/preview/1000x1000/-/format/auto/MOMENTUM_4_Wireless_Denim_Isofront.jpg",
+      "https://global.sennheiser-hearing.com/cdn/shop/products/M4W_White_ATF_Main_Image_1_1024x1024@2x.jpg?v=1659096745",
+      "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/08/Sennheiser-Momentum-4-Wireless-main.jpg",
+      "https://cdn.uc.assets.prezly.com/515de6b2-3334-4e35-a433-7c4ce4685a8d/-/preview/1000x1000/-/format/auto/MOMENTUM_4_Wireless_Copper_Side.jpg"
+  ],
+  "price": 349.99,
+  "originalPrice": 399.99,
+  "discount": "12%",
+  "rating": 4.8,
+  "reviewCount": 310,
+  "description": "The Sennheiser Momentum 4 Wireless headphones offer premium sound, active noise cancellation, and an elegant design. Featuring a long battery life and Bluetooth connectivity, these headphones provide a top-tier listening experience for audiophiles and casual users alike.",
+  "specifications": {
+      "keyFeatures": [
+          "Active Noise Cancellation",
+          "Up to 60 hours of battery life",
+          "Bluetooth 5.0 for wireless connectivity",
+          "Touchpad for easy controls",
+          "Superior sound quality with Sennheiser’s sound signature",
+          "Foldable design for portability"
+      ],
+      "connectivity": "Wireless (Bluetooth 5.0), USB-C",
+      "batteryLife": "Up to 60 hours",
+      "dimensions": "190 mm x 150 mm x 80 mm",
+      "weight": "282 g"
+  },
+  "seller": "Sennheiser Official Store",
+  "availability": "In Stock",
+  "tags": ["Sennheiser", "Headphones", "Wireless", "Noise Cancelling", "Premium Sound"],
+  "newProduct": false,
+  "category": "Headphones",
+  "stock": 30,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2030",
+  "productName": "Jabra Elite 85h",
+  "images": [
+      "https://m.media-amazon.com/images/S/aplus-media/vc/2f87991e-6aa5-4eea-b7e4-74a43975741d.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+      "https://assets.jabra.com/b/4/7/4/b474fcaf8d20d0f2e810f1c60d80e70daa11e3e2_jabra_elite_85h_titanium_01.png",
+      "https://cdn11.bigcommerce.com/s-q8jsr/images/stencil/original/products/1301/8277/Jabra_85H_Gold_Beige_3__03373.1559147145.jpg",
+      "https://guide-images.cdn.ifixit.com/igi/UCtKOLEF221ZugYh.large"
+  ],
+  "price": 299.99,
+  "originalPrice": 349.99,
+  "discount": "14%",
+  "rating": 4.6,
+  "reviewCount": 550,
+  "description": "The Jabra Elite 85h headphones deliver a rich, high-quality sound experience with active noise cancellation and long battery life. They are designed for comfort and built with advanced features like SmartSound for automatic sound adjustments based on surroundings.",
+  "specifications": {
+      "keyFeatures": [
+          "Active Noise Cancellation (ANC)",
+          "SmartSound for auto-adjusting sound profiles",
+          "Up to 36 hours of battery life",
+          "Water and dust resistant (IP52 rating)",
+          "Voice Assistant support",
+          "Fast charging - 15 minutes gives 5 hours of playback"
+      ],
+      "connectivity": "Wireless (Bluetooth 5.0), 3.5mm audio jack",
+      "batteryLife": "Up to 36 hours",
+      "dimensions": "210 mm x 180 mm x 80 mm",
+      "weight": "296 g"
+  },
+  "seller": "Jabra Official Store",
+  "availability": "In Stock",
+  "tags": ["Jabra", "Headphones", "Noise Cancelling", "SmartSound", "Bluetooth"],
+  "newProduct": false,
+  "category": "Headphones",
+  "stock": 20,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2040",
+  "productName": "JBL Flip 6",
+  "images": [
+      "https://alhamdtech.pk/cdn/shop/files/jbl-flip-6-bluetooth-speakers-927097.jpg?v=1722252488",
+      "https://globalcomputers.pk/wp-content/uploads/2023/07/flip6-1.jpg",
+      "https://elitegamingstore.pk/wp-content/uploads/2024/02/eee.jpg",
+      "https://pakistanstore.pk/wp-content/uploads/2024/08/JBL-Flip-6-Max-Speaker.jpg"
+  ],
+  "price": 129.99,
+  "originalPrice": 149.99,
+  "discount": "13%",
+  "rating": 4.8,
+  "reviewCount": 330,
+  "description": "The JBL Flip 6 is a portable Bluetooth speaker that delivers powerful sound in a compact design. It's waterproof, durable, and features JBL's Bass Radiator technology for rich, deep bass. Perfect for outdoor parties or indoor use, this speaker provides up to 12 hours of continuous playtime.",
+  "specifications": {
+      "keyFeatures": [
+          "Powerful JBL Pro Sound with Bass Radiators",
+          "Waterproof and dustproof (IP67 rating)",
+          "Up to 12 hours of battery life",
+          "Bluetooth 5.1 connectivity",
+          "Built-in speakerphone",
+          "USB-C charging"
+      ],
+      "connectivity": "Wireless (Bluetooth 5.1), USB-C charging",
+      "batteryLife": "Up to 12 hours",
+      "dimensions": "180 x 68 x 74 mm",
+      "weight": "550 g"
+  },
+  "seller": "JBL Official Store",
+  "availability": "In Stock",
+  "tags": ["JBL", "Bluetooth Speaker", "Portable Speaker", "Waterproof", "Party Speaker"],
+  "newProduct": false,
+  "category": "Bluetooth Speakers",
+  "stock": 50,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2050",
+  "productName": "Bose SoundLink Flex",
+  "images": [
+      "https://pakistanstore.pk/wp-content/uploads/2023/07/BOSE-Bluetooth-Speaker-600x600.jpg",
+      "https://i5.walmartimages.com/seo/Bose-SoundLink-Flex-Wireless-Waterproof-Portable-Bluetooth-Speaker-Cypress-Green_cdb4b20c-8093-4086-99a0-e87e5f54735d.ff783c63649385116a6e0ebde4a56254.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "https://assets.bose.com/content/dam/cloudassets/Bose_DAM/Web/consumer_electronics/global/products/speakers/soundlink_flex/product_silo_images/SLF_PDP_Ecom-Gallery-W03.jpg/jcr:content/renditions/cq5dam.web.1920.1920.jpeg",
+      "https://assets.bose.com/content/dam/cloudassets/Bose_DAM/Web/consumer_electronics/global/products/speakers/soundlink_flex/images/SLFBSLE_ChilledLilac_PDP_AEM_09.jpg/jcr:content/renditions/cq5dam.web.320.320.jpeg"
+  ],
+  "price": 149.99,
+  "originalPrice": 179.99,
+  "discount": "16%",
+  "rating": 4.7,
+  "reviewCount": 280,
+  "description": "The Bose SoundLink Flex is a portable Bluetooth speaker that provides high-quality sound and deep bass. With its waterproof design, it’s perfect for outdoor activities. Enjoy clear, balanced sound with a durable, rugged build. It’s easy to carry and offers up to 12 hours of playtime.",
+  "specifications": {
+      "keyFeatures": [
+          "Crisp, balanced sound with deep bass",
+          "Waterproof (IP67 rating) and durable",
+          "Up to 12 hours of battery life",
+          "Wireless Bluetooth 5.0",
+          "Built-in microphone for calls",
+          "Lightweight and portable design"
+      ],
+      "connectivity": "Wireless (Bluetooth 5.0), USB-C charging",
+      "batteryLife": "Up to 12 hours",
+      "dimensions": "18.4 x 5.4 x 5.3 cm",
+      "weight": "0.55 kg"
+  },
+  "seller": "Bose Official Store",
+  "availability": "In Stock",
+  "tags": ["Bose", "Bluetooth Speaker", "Portable Speaker", "Waterproof", "Outdoor Speaker"],
+  "newProduct": true,
+  "category": "Bluetooth Speakers",
+  "stock": 45,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2060",
+  "productName": "Sony SRS-XB43",
+  "images": [
+      "https://www.sony.com/image/c0ebc50847b507a1e788c08c0530f599?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF",
+      "https://westore.mv/wp-content/uploads/2023/07/mrkR11nIVMegBAIyZ8vl3xgAYfDqpM9qRglRgjGu.jpg",
+      "https://image.made-in-china.com/2f0j00MrNciLWtCbkh/EVA-Sound-Package-Is-Applicable-to-Sony-SRS-Xb43-Waterproof-Wireless-Bluetooth-Speaker-Package-EVA-Speaker-Storage-Box.webp",
+      "https://www.seller.gsmprice.com/image/cache/catalog/Sony/Sony_SRS_XB43_EXTRA_BASS_Portable_Bluetooth_Speaker_Red__2_-650x650.jpg"
+  ],
+  "price": 199.99,
+  "originalPrice": 229.99,
+  "discount": "13%",
+  "rating": 4.8,
+  "reviewCount": 420,
+  "description": "The Sony SRS-XB43 Extra Bass Bluetooth speaker offers deep, punchy bass and clear sound, perfect for any party or outdoor adventure. It's designed with IP67 water and dust resistance, making it the ideal companion for outdoor activities. Enjoy up to 24 hours of playback and connect multiple speakers for a surround sound experience.",
+  "specifications": {
+      "keyFeatures": [
+          "Extra Bass for deep, punchy sound",
+          "IP67 water and dustproof",
+          "Up to 24 hours of battery life",
+          "Bluetooth 5.0 connectivity",
+          "Party Connect for multi-speaker sound",
+          "Built-in LED lights for added atmosphere"
+      ],
+      "connectivity": "Bluetooth 5.0, USB-C charging",
+      "batteryLife": "Up to 24 hours",
+      "dimensions": "64 x 260 x 104 mm",
+      "weight": "2.9 kg"
+  },
+  "seller": "Sony Official Store",
+  "availability": "In Stock",
+  "tags": ["Sony", "Bluetooth Speaker", "Extra Bass", "Portable Speaker", "Waterproof Speaker"],
+  "newProduct": false,
+  "category": "Bluetooth Speakers",
+  "stock": 60,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2070",
+  "productName": "Ultimate Ears Megaboom 3",
+  "images": [
+      "https://www.ultimateears.com/content/dam/ue/products/wireless-speakers/megaboom-3/specs/megaboom3-b-image.png.imgw.500.500.png",
+      "https://media.wired.com/photos/5b871a54f8da0b35c874a5fc/master/w_2560%2Cc_limit/BOOM.jpg",
+      "https://www.shopusa.pk/image/cache/catalog/amazon/admin/B07DD3W154/51QUProU9kL-750x750.jpg",
+      "https://i.ebayimg.com/images/g/ri0AAOSwWOtm7cuv/s-l1600.jpg"
+  ],
+  "price": 179.99,
+  "originalPrice": 199.99,
+  "discount": "10%",
+  "rating": 4.7,
+  "reviewCount": 350,
+  "description": "The Ultimate Ears Megaboom 3 is a portable Bluetooth speaker that delivers 360-degree sound and deep bass, with an IP67 rating for water and dust resistance. It provides up to 20 hours of battery life and a customizable equalizer, making it perfect for outdoor adventures, parties, and more.",
+  "specifications": {
+      "keyFeatures": [
+          "360-degree sound with deep bass",
+          "IP67 water and dustproof",
+          "Up to 20 hours of battery life",
+          "Ultimate Ears app for equalizer settings",
+          "PartyUp feature for connecting multiple speakers"
+      ],
+      "connectivity": "Bluetooth 5.0, USB-C charging",
+      "batteryLife": "Up to 20 hours",
+      "dimensions": "22 x 8.7 x 8.7 cm",
+      "weight": "0.96 kg"
+  },
+  "seller": "Ultimate Ears Official Store",
+  "availability": "In Stock",
+  "tags": ["Ultimate Ears", "Bluetooth Speaker", "360 Sound", "Portable Speaker", "Waterproof Speaker"],
+  "newProduct": false,
+  "category": "Bluetooth Speakers",
+  "stock": 45,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "2071",
+  "productName": "Anker Soundcore Motion+",
+  "images": [
+      "https://m.media-amazon.com/images/I/51hKw38ciKL.jpg",
+      "https://www.catchyjo.net/cdn/shop/files/1_bea558fe-9dd5-4ed6-ac01-b946c6266604.jpg?v=1722188924&width=1080",
+      "https://cdn.shopify.com/s/files/1/0519/2355/0368/files/71ZOj7vPnbL._AC_SL1500_1.jpg?v=1724919598",
+      "https://cdn.shopify.com/s/files/1/0519/2355/0368/files/71GaDD2F2UL._AC_SL1500_1.jpg?v=1724919599"
+  ],
+  "price": 109.99,
+  "originalPrice": 119.99,
+  "discount": "8%",
+  "rating": 4.6,
+  "reviewCount": 800,
+  "description": "The Anker Soundcore Motion+ Bluetooth speaker is engineered to provide high-fidelity sound with stunning clarity and deep bass. Featuring IPX7 waterproof rating, 12-hour battery life, and high-resolution audio, it’s perfect for both indoor and outdoor use.",
+  "specifications": {
+      "keyFeatures": [
+          "Hi-Res Audio and bass-driven sound",
+          "IPX7 waterproof rating",
+          "12 hours of battery life",
+          "Bluetooth 5.0",
+          "Customizable equalizer with the Soundcore app"
+      ],
+      "connectivity": "Bluetooth 5.0, USB-C charging",
+      "batteryLife": "Up to 12 hours",
+      "dimensions": "24 x 8.5 x 7 cm",
+      "weight": "1.05 kg"
+  },
+  "seller": "Anker Official Store",
+  "availability": "In Stock",
+  "tags": ["Anker", "Bluetooth Speaker", "Portable Speaker", "Waterproof Speaker", "Bass Speaker"],
+  "newProduct": false,
+  "category": "Bluetooth Speakers",
+  "stock": 60,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "3072",
+  "productName": "Apple AirPods Pro (2nd Generation)",
+  "images": [
+      "https://appleshop.com.pk/wp-content/uploads/2022/09/MQD83.jpg",
+      "https://shandarmobile.com/wp-content/uploads/2023/01/2ND.webp",
+      "https://eezepc.com/wp-content/uploads/2023/10/Apple-AirPods-Pro-2nd-generation-0.jpg",
+      "https://xcessorieshub.com/wp-content/uploads/2022/09/Apple-AirPods-Pro-2nd-gen-l-and-r-220907_inline.jpg.large_-1-1.webp"
+  ],
+  "price": 249.99,
+  "originalPrice": 279.99,
+  "discount": "11%",
+  "rating": 4.8,
+  "reviewCount": 1200,
+  "description": "Apple AirPods Pro (2nd Generation) deliver an unparalleled audio experience with improved active noise cancellation, transparency mode, and spatial audio. Equipped with the H2 chip, these earbuds ensure a seamless, immersive listening experience.",
+  "specifications": {
+      "keyFeatures": [
+          "Active Noise Cancellation and Adaptive Transparency",
+          "Personalized Spatial Audio with dynamic head tracking",
+          "Improved battery life: up to 6 hours on a single charge",
+          "H2 chip for superior performance",
+          "MagSafe Charging Case with built-in speaker and lanyard loop"
+      ],
+      "connectivity": "Bluetooth 5.3",
+      "batteryLife": "Up to 6 hours (AirPods), 30 hours (with charging case)",
+      "waterResistance": "IPX4-rated (AirPods and case)",
+      "dimensions": "30.9 x 21.8 x 24.0 mm (AirPods), 45.2 x 60.6 x 21.7 mm (case)",
+      "weight": "5.3 g (per AirPod), 50.8 g (case)"
+  },
+  "seller": "Apple Authorized Store",
+  "availability": "In Stock",
+  "tags": ["Apple", "AirPods Pro", "Noise Cancelling Earbuds", "Wireless Earbuds", "MagSafe Charging"],
+  "newProduct": true,
+  "category": "Earbuds",
+  "stock": 75,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "EBD-103",
+  "productName": "Samsung Galaxy Buds 2 Pro",
+  "images": [
+      "https://images.priceoye.pk/samsung-galaxy-buds-2-pro-pakistan-priceoye-db5nh-500x500.webp",
+      "https://dynsol.pk/cdn/shop/files/hhaxS08412.jpg?v=1699870010",
+      "https://eezepc.com/wp-content/uploads/2022/09/Buds2-Pro-Purple-EEZEPC-7.jpg",
+      "https://mrittikax.com/wp-content/uploads/2024/05/samsung-galaxy-buds2-pro-with-innovative-ai-features.png"
+  ],
+  "price": 199.99,
+  "originalPrice": 229.99,
+  "discountPercentage": "13%",
+  "rating": 4.7,
+  "reviews": [
+      {
+          "username": "galaxy_fan98",
+          "rating": 5,
+          "comment": "Crystal clear audio and comfortable fit. The best Samsung has made so far!",
+          "date": "2024-11-14"
+      },
+      {
+          "username": "techenthusiast",
+          "rating": 4,
+          "comment": "Great sound, but I wish the battery lasted longer.",
+          "date": "2024-11-10"
+      }
+  ],
+  "description": "Samsung Galaxy Buds 2 Pro delivers an immersive audio experience with Hi-Fi sound quality, intelligent ANC, and a lightweight, ergonomic design.",
+  "specifications": {
+      "audio": "Hi-Fi Sound Quality (24-bit)",
+      "noiseCancellation": "Intelligent Active Noise Cancellation",
+      "batteryLife": "5 hours per charge, 18 hours with case",
+      "waterResistance": "IPX7 (Water Resistant)",
+      "connectivity": "Bluetooth 5.3",
+      "charging": "Wireless and USB-C",
+      "dimensions": "17 x 20.9 x 21.6 mm (per bud), 50 x 50.2 x 27.7 mm (case)",
+      "weight": "5.5 g (per bud), 43.4 g (case)"
+  },
+  "category": "Earbuds",
+  "stock": 85,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "2-4 business days"
+  },
+  "seller": {
+      "name": "Samsung Authorized Reseller",
+      "rating": 4.8,
+      "location": "USA",
+      "contact": "support@samsung.com"
+  },
+  "tags": ["Samsung", "Earbuds", "Noise Cancelling", "Wireless", "Hi-Fi Sound"],
+  "newProduct": false,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "EBD-104",
+  "productName": "Sony WF-1000XM5",
+  "images": [
+      "https://sonycenter-clifton.com/wp-content/uploads/2024/02/Sony-WF-1000XM5-The-Best-True-Wireless-Noise-Canceling-Earbuds.jpg",
+      "https://cdn.vox-cdn.com/thumbor/PprCZaouG8OIPXSsk8YHOiqEKvA=/0x0:2040x1360/1400x1400/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24805993/DSCF2249_Enhanced_NR_2.jpg",
+      "https://media.wisemarket.com.pk/product/sony-wf-1000xm5-wireless-nc-earbuds-62.webp",
+      "https://ecommerce.datablitz.com.ph/cdn/shop/files/Sony-WF-1000XM5-main.jpg?v=1693389586"
+  ],
+  "price": 279.99,
+  "originalPrice": 299.99,
+  "discountPercentage": "7%",
+  "rating": 4.8,
+  "reviews": [
+      {
+          "username": "soundlover",
+          "rating": 5,
+          "comment": "The best noise-canceling earbuds on the market. Exceptional sound quality!",
+          "date": "2024-11-15"
+      },
+      {
+          "username": "audiophile23",
+          "rating": 4,
+          "comment": "Amazing performance, but slightly pricey.",
+          "date": "2024-11-12"
+      }
+  ],
+  "description": "Sony WF-1000XM5 earbuds redefine audio experience with industry-leading noise cancellation, Hi-Res audio, and all-day comfort.",
+  "specifications": {
+      "audio": "Hi-Res Audio with LDAC",
+      "noiseCancellation": "Dual Processor Noise Canceling Technology",
+      "batteryLife": "8 hours per charge, 24 hours with case",
+      "waterResistance": "IPX4 (Splash Resistant)",
+      "connectivity": "Bluetooth 5.3 with Multi-Point Connection",
+      "charging": "Wireless, USB-C, and Fast Charging (1-hour playback in 3 mins)",
+      "dimensions": "17 x 20.5 x 22 mm (per bud), 50 x 50 x 27 mm (case)",
+      "weight": "5.3 g (per bud), 39 g (case)"
+  },
+  "category": "Earbuds",
+  "stock": 120,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "3-5 business days"
+  },
+  "seller": {
+      "name": "Sony Official Store",
+      "rating": 4.9,
+      "location": "USA",
+      "contact": "support@sony.com"
+  },
+  "tags": ["Sony", "Earbuds", "Noise Cancelling", "Wireless", "Hi-Res Audio"],
+  "newProduct": true,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "EBD-105",
+  "productName": "Jabra Elite 7 Pro",
+  "images": [
+      "https://circuitcity.co.za/wp-content/uploads/2022/03/Jabra-Elite-7-Pro-Angle-5-Black-LB.jpg",
+      "https://www.jabra.com/-/media/Images/Products/Jabra-Elite-7-Pro/Product/elite_7_pro_titanium_02.png?w=800&hash=44B27D9BB44A30C49C0A88701B36ABD2",
+      "https://preprod.khalaifat.com/media/catalog/product/cache/102d328d2f30440660bebe1418a4e2fc/e/l/elite_7_pro-4.jpg",
+      "https://www.jabra.com/-/media/Global/Ecom-Pages/Whats-in-the-box/Elite-7-Pro/Buds.png"
+  ],
+  "price": 199.99,
+  "originalPrice": 229.99,
+  "discountPercentage": "13%",
+  "rating": 4.6,
+  "reviews": [
+      {
+          "username": "techguru",
+          "rating": 5,
+          "comment": "Excellent earbuds with outstanding call quality and active noise cancellation.",
+          "date": "2024-11-15"
+      },
+      {
+          "username": "audioman",
+          "rating": 4,
+          "comment": "Comfortable fit, but the sound profile could use a bit more bass.",
+          "date": "2024-11-14"
+      }
+  ],
+  "description": "The Jabra Elite 7 Pro offers professional-grade sound, state-of-the-art call clarity, and all-day comfort with its compact, true wireless design.",
+  "specifications": {
+      "audio": "Customizable EQ with Jabra Sound+ app",
+      "noiseCancellation": "Adjustable Active Noise Cancellation",
+      "microphones": "MultiSensor Voice™ with bone conduction technology",
+      "batteryLife": "8 hours per charge, 30 hours with case",
+      "waterResistance": "IP57 (dust and water resistant)",
+      "connectivity": "Bluetooth 5.2 with Multi-Point support",
+      "charging": "Fast Charging (5 mins for 1 hour of playback), USB-C",
+      "dimensions": "20.2 x 16.8 x 20.8 mm (per bud), 65.4 x 40.35 x 25.3 mm (case)",
+      "weight": "5.4 g (per bud), 44 g (case)"
+  },
+  "category": "Earbuds",
+  "stock": 150,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "3-5 business days"
+  },
+  "seller": {
+      "name": "Jabra Official Store",
+      "rating": 4.8,
+      "location": "Denmark",
+      "contact": "support@jabra.com"
+  },
+  "tags": ["Jabra", "Earbuds", "Noise Cancelling", "Wireless", "Premium Sound"],
+  "newProduct": true,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "EBD-106",
+  "productName": "Google Pixel Buds Pro",
+  "images": [
+      "https://circuitcity.co.za/wp-content/uploads/2022/03/Jabra-Elite-7-Pro-Angle-5-Black-LB.jpg",
+      "https://fonepro.pk/wp-content/uploads/2022/10/61Zs-oefoDL._AC_SL1500_.png.webp",
+      "https://p1.akcdn.net/gallery/845319519/full/1786384.google-pixel-buds-pro.jpg",
+      "https://atreboot.com/wp-content/uploads/2023/01/Google-Pixel-Buds-Pro_atreboot.com_4.gif"
+  ],
+  "price": 179.99,
+  "originalPrice": 199.99,
+  "discountPercentage": "10%",
+  "rating": 4.5,
+  "reviews": [
+      {
+          "username": "soundlover88",
+          "rating": 5,
+          "comment": "The best Pixel Buds yet! Excellent noise cancellation and great integration with Google Assistant.",
+          "date": "2024-11-14"
+      },
+      {
+          "username": "techsavvy",
+          "rating": 4,
+          "comment": "Solid sound and features, but the fit could be a bit better for extended use.",
+          "date": "2024-11-13"
+      }
+  ],
+  "description": "Experience immersive audio with the Google Pixel Buds Pro, featuring premium sound quality, adaptive noise cancellation, and seamless integration with the Google ecosystem.",
+  "specifications": {
+      "audio": "Custom 11mm drivers with Adaptive Sound technology",
+      "noiseCancellation": "Active Noise Cancellation with Silent Seal™",
+      "microphones": "Beamforming microphones and wind-blocking mesh covers",
+      "batteryLife": "11 hours per charge, up to 31 hours with case",
+      "waterResistance": "IPX4 (earbuds) and IPX2 (case)",
+      "connectivity": "Bluetooth 5.0, Google Fast Pair",
+      "charging": "USB-C and wireless charging",
+      "dimensions": "22.33 x 21.66 x 23.72 mm (per bud), 63 x 47 x 25 mm (case)",
+      "weight": "6.2 g (per bud), 42 g (case)"
+  },
+  "category": "Earbuds",
+  "stock": 120,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "2-4 business days"
+  },
+  "seller": {
+      "name": "Google Official Store",
+      "rating": 4.9,
+      "location": "United States",
+      "contact": "support@google.com"
+  },
+  "tags": ["Google", "Earbuds", "Noise Cancelling", "Wireless", "Pixel Buds"],
+  "newProduct": true,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "TV-207",
+  "productName": "Samsung QN90C Neo QLED 4K Smart TV",
+  "images": [
+      "https://images.samsung.com/is/image/samsung/p6pim/latin_en/qn55qn90capxpa/gallery/latin-en-qled-qn90c-qn55qn90capxpa-535714155?$624_624_PNG$",
+      "https://m.media-amazon.com/images/I/9115lzt-1mL._AC_UF1000,1000_QL80_.jpg",
+      "https://myxprs.com/cdn/shop/products/samsung-55-qn90c-neo-qled-4k-smart-tv-2023-260671.png?v=1721744394",
+      "https://cacellular.co.za/wp-content/uploads/2024/09/SAMSUNG-75-QN90C-NEO-QLED-4K-SMART-TV-2023.jpg"
+  ],
+  "price": 1899.99,
+  "originalPrice": 2199.99,
+  "discountPercentage": "14%",
+  "rating": 4.8,
+  "reviews": [
+      {
+          "username": "techenthusiast",
+          "rating": 5,
+          "comment": "Unmatched picture quality and brightness. Perfect for gaming and streaming!",
+          "date": "2024-11-10"
+      },
+      {
+          "username": "cinemalover101",
+          "rating": 4.5,
+          "comment": "The HDR performance is incredible, though the sound could be slightly better.",
+          "date": "2024-11-12"
+      }
+  ],
+  "description": "Elevate your viewing experience with the Samsung QN90C Neo QLED 4K Smart TV, featuring Quantum Matrix Technology, Dolby Atmos, and a sleek design for immersive entertainment.",
+  "specifications": {
+      "display": "55-inch Neo QLED with Quantum HDR 32x",
+      "resolution": "4K Ultra HD (3840 x 2160)",
+      "refreshRate": "120Hz (up to 144Hz for gaming)",
+      "brightness": "Quantum Matrix Technology with Mini LEDs",
+      "audio": "Dolby Atmos, Object Tracking Sound+",
+      "smartFeatures": "Tizen OS, Alexa and Google Assistant compatibility",
+      "connectivity": "HDMI 2.1 x 4, USB x 2, Ethernet, Wi-Fi 6, Bluetooth 5.2",
+      "design": "Slim One Connect Box, anti-reflection screen",
+      "dimensions": "48.5 x 28.1 x 1.1 inches (without stand)",
+      "weight": "37.5 lbs (without stand)"
+  },
+  "category": "Smart TVs",
+  "stock": 85,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "3-5 business days",
+      "installationService": true
+  },
+  "seller": {
+      "name": "Samsung Official Store",
+      "rating": 4.9,
+      "location": "United States",
+      "contact": "support@samsung.com"
+  },
+  "tags": ["Samsung", "Smart TV", "4K", "Neo QLED", "HDR", "Gaming"],
+  "newProduct": true,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "TV-208",
+  "productName": "LG C3 OLED Evo Smart TV",
+  "images": [
+      "https://ledmart.pk/wp-content/uploads/2024/04/LG-55C3-55-OLED-evo-4K-Smart-TV-2023.jpg",
+      "https://www.lg.com/content/dam/channel/wcms/ca_en/images/tv/features/oled2023/TV-OLED-C3-02-Intro-Visual-Mobile.jpg",
+      "https://images.webfronts.com/cache/rdubafcilbkv.jpg?imgeng=/w_500/h_500/m_letterbox_ffffff_100",
+      "https://www.2001audiovideo.com/files/image/attachment/10593/OLED42C3PUA_2023_ProductImage_7.jpg"
+  ],
+  "price": 2099.99,
+  "originalPrice": 2499.99,
+  "discountPercentage": "16%",
+  "rating": 4.9,
+  "reviews": [
+      {
+          "username": "oledlover",
+          "rating": 5,
+          "comment": "The LG C3 delivers stunning visuals and incredible color accuracy. A must-buy for OLED fans!",
+          "date": "2024-11-14"
+      },
+      {
+          "username": "techguru2024",
+          "rating": 4.8,
+          "comment": "Perfect for movies and gaming. The webOS interface is smooth and user-friendly.",
+          "date": "2024-11-16"
+      }
+  ],
+  "description": "The LG C3 OLED Evo Smart TV combines cutting-edge OLED Evo technology with the α9 AI Processor Gen6, offering unparalleled picture quality, deep blacks, and vibrant colors. A masterpiece for home entertainment.",
+  "specifications": {
+      "display": "55-inch OLED Evo with 4K Ultra HD (3840 x 2160)",
+      "processor": "α9 AI Processor Gen6",
+      "refreshRate": "120Hz (VRR support)",
+      "brightness": "OLED Evo enhanced luminance",
+      "audio": "Dolby Atmos, AI Sound Pro",
+      "smartFeatures": "webOS, Alexa and Google Assistant built-in",
+      "gamingFeatures": "NVIDIA G-SYNC, FreeSync Premium, Game Optimizer",
+      "connectivity": "HDMI 2.1 x 4, USB x 3, Ethernet, Wi-Fi 6, Bluetooth 5.0",
+      "dimensions": "48.3 x 27.8 x 1.8 inches (without stand)",
+      "weight": "38.1 lbs (without stand)"
+  },
+  "category": "Smart TVs",
+  "stock": 70,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "3-5 business days",
+      "installationService": true
+  },
+  "seller": {
+      "name": "LG Official Store",
+      "rating": 4.8,
+      "location": "United States",
+      "contact": "support@lg.com"
+  },
+  "tags": ["LG", "Smart TV", "OLED", "4K", "Evo", "Gaming"],
+  "newProduct": true,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "TV-209",
+  "productName": "Sony A80L OLED Smart TV",
+  "images": [
+      "https://www.thesonyshop.ca/cdn/shop/products/XRA80L55_3_3000x3000.jpg?v=1677531848",
+      "https://m2.me-retail.com/cdn-cgi/image/w=1000,q=75,f=auto/pub/media/catalog/product/x/r/xr-55-65a80l-4.png",
+      "https://www.applianceretailer.com.au/wp-content/uploads/2023/06/Sony-A80L-4K-HDR-OLED-TV_Bravia-Core.jpg?w=1200",
+      "https://shopatsc.com/cdn/shop/files/03-A80L-tv-feature.jpg?v=1697698925"
+  ],
+  "price": 2699.99,
+  "originalPrice": 2999.99,
+  "discountPercentage": "10%",
+  "rating": 4.8,
+  "reviews": [
+      {
+          "username": "cinemalover",
+          "rating": 5,
+          "comment": "The Sony A80L's picture quality is cinematic and breathtaking. Dolby Vision is amazing!",
+          "date": "2024-11-15"
+      },
+      {
+          "username": "techenthusiast",
+          "rating": 4.7,
+          "comment": "Impressive visuals and sound. Perfect for streaming and gaming.",
+          "date": "2024-11-16"
+      }
+  ],
+  "description": "The Sony A80L OLED Smart TV offers exceptional image quality with deep blacks, vibrant colors, and cutting-edge technology. Powered by the Cognitive Processor XR, it delivers immersive viewing and sound, redefining home entertainment.",
+  "specifications": {
+      "display": "65-inch OLED 4K Ultra HD (3840 x 2160)",
+      "processor": "Cognitive Processor XR",
+      "refreshRate": "120Hz (MotionFlow XR)",
+      "HDR Support": "Dolby Vision, HDR10, HLG",
+      "audio": "Acoustic Surface Audio+ with Dolby Atmos",
+      "smartFeatures": "Google TV, Alexa and Google Assistant compatibility",
+      "gamingFeatures": "HDMI 2.1, Variable Refresh Rate (VRR), Auto Low Latency Mode (ALLM)",
+      "connectivity": "HDMI x 4, USB x 2, Ethernet, Wi-Fi, Bluetooth 5.2",
+      "dimensions": "57 x 33 x 2 inches (without stand)",
+      "weight": "55 lbs (without stand)"
+  },
+  "category": "Smart TVs",
+  "stock": 50,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "3-7 business days",
+      "installationService": true
+  },
+  "seller": {
+      "name": "Sony Official Store",
+      "rating": 4.9,
+      "location": "United States",
+      "contact": "support@sony.com"
+  },
+  "tags": ["Sony", "OLED", "Smart TV", "4K", "Dolby Vision", "Google TV"],
+  "newProduct": true,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "TV-210",
+  "productName": "TCL 6-Series QLED Roku TV (2024)",
+  "images": [
+      "https://i5.walmartimages.com/asr/9bd73e8f-222a-4807-8115-02480d73b0ca.b4507a2ccbcaf365c19e0e619af895b3.jpeg",
+      "https://hips.hearstapps.com/hmg-prod/images/tcl-qm851-4k-tv-010-66759d86640ae.jpg?crop=0.598xw:0.796xh;0.210xw,0.204xh&resize=640:*",
+      "https://www.tcl.com/usca/content/dam/tcl/products/home-theater/6-series/6-series-qled.png",
+      "https://royalemarts.com/wp-content/uploads/2024/03/shu1-8.webp"
+  ],
+  "price": 1399.99,
+  "originalPrice": 1599.99,
+  "discountPercentage": "12%",
+  "rating": 4.7,
+  "reviews": [
+      {
+          "username": "techsavvy23",
+          "rating": 5,
+          "comment": "The TCL 6-Series is a game-changer in its price range. Stunning visuals and seamless Roku integration.",
+          "date": "2024-11-16"
+      },
+      {
+          "username": "moviebuff89",
+          "rating": 4.5,
+          "comment": "Excellent picture quality, but I wish the sound was a bit more immersive.",
+          "date": "2024-11-15"
+      }
+  ],
+  "description": "The TCL 6-Series QLED Roku TV (2024) combines exceptional 4K picture quality with advanced QLED technology for vibrant colors and enhanced contrast. Integrated with Roku's intuitive smart platform, it offers seamless access to all your favorite streaming apps.",
+  "specifications": {
+      "display": "65-inch QLED 4K Ultra HD (3840 x 2160)",
+      "processor": "AiPQ Engine Gen 3",
+      "refreshRate": "120Hz (Variable Refresh Rate supported)",
+      "HDR Support": "Dolby Vision, HDR10+, HLG",
+      "audio": "Dolby Atmos support",
+      "smartFeatures": "Roku Smart TV, Voice Assistant Support (Alexa, Google Assistant)",
+      "gamingFeatures": "Game Mode, VRR, Auto Game Mode (ALLM)",
+      "connectivity": "HDMI x 4 (HDMI 2.1), USB x 1, Ethernet, Wi-Fi, Bluetooth",
+      "dimensions": "57.4 x 33.2 x 2.9 inches (without stand)",
+      "weight": "53 lbs (without stand)"
+  },
+  "category": "Smart TVs",
+  "stock": 45,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "3-5 business days",
+      "installationService": true
+  },
+  "seller": {
+      "name": "TCL Official Store",
+      "rating": 4.8,
+      "location": "United States",
+      "contact": "support@tcl.com"
+  },
+  "tags": ["TCL", "QLED", "Roku TV", "Smart TV", "Dolby Vision", "4K"],
+  "newProduct": true,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "TV-211",
+  "productName": "Hisense U8K Mini-LED Smart TV",
+  "images": [
+      "https://files.hisense-usa.com/storage/hisense/asset/images/6667dab426b45d.webp",
+      "https://files.hisense-usa.com/storage/hisense/asset/images/6667daa59b5a82.webp",
+      "https://m.media-amazon.com/images/I/71PQy3VzPbL._AC_UF350,350_QL80_.jpg",
+      "https://hips.hearstapps.com/hmg-prod/images/screenshot-2023-08-31-at-12-59-58-pm-64f0c7150d78f.png?crop=0.774xw:1.00xh;0.150xw,0&resize=640:*"
+  ],
+  "price": 1199.99,
+  "originalPrice": 1399.99,
+  "discountPercentage": "14%",
+  "rating": 4.6,
+  "reviews": [
+      {
+          "username": "cinemalover2024",
+          "rating": 5,
+          "comment": "Incredible picture quality for movies and sports. The Mini-LED tech really makes a difference!",
+          "date": "2024-11-15"
+      },
+      {
+          "username": "gamerzplz",
+          "rating": 4.5,
+          "comment": "Great for gaming with low input lag and vibrant colors. Slight blooming in darker scenes, but overall fantastic.",
+          "date": "2024-11-14"
+      }
+  ],
+  "description": "The Hisense U8K Mini-LED Smart TV sets a new benchmark in smart TV performance. Featuring advanced Mini-LED technology, it delivers exceptional brightness, vibrant colors, and deep contrast. Equipped with Google TV, it offers seamless streaming and smart features.",
+  "specifications": {
+      "display": "65-inch Mini-LED 4K Ultra HD (3840 x 2160)",
+      "processor": "Hisense Hi-View Engine",
+      "refreshRate": "144Hz (Variable Refresh Rate supported)",
+      "HDR Support": "Dolby Vision, HDR10+, HLG",
+      "audio": "Dolby Atmos, DTS Virtual:X",
+      "smartFeatures": "Google TV, Voice Assistant Support (Alexa, Google Assistant)",
+      "gamingFeatures": "144Hz Refresh Rate, Game Mode Pro, ALLM, VRR",
+      "connectivity": "HDMI x 4 (2x HDMI 2.1), USB x 2, Ethernet, Wi-Fi 6, Bluetooth",
+      "dimensions": "57.3 x 33.1 x 3.1 inches (without stand)",
+      "weight": "61.3 lbs (without stand)"
+  },
+  "category": "Smart TVs",
+  "stock": 30,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "3-6 business days",
+      "installationService": true
+  },
+  "seller": {
+      "name": "Hisense Official Store",
+      "rating": 4.7,
+      "location": "United States",
+      "contact": "support@hisense.com"
+  },
+  "tags": ["Hisense", "Mini-LED", "Smart TV", "4K TV", "Dolby Vision", "Gaming"],
+  "newProduct": true,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "SD-301",
+  "productName": "Amazon Fire TV Stick 4K Max",
+  "images": [
+      "https://alhamdtech.pk/cdn/shop/files/amazon-fire-tv-stick-4k-max-2nd-gen-16gb-wi-fi-6e-102089.jpg?v=1725571081",
+      "https://dongknows.com/wp-content/uploads/Fire-TV-Stick-4K-Max-2nd-Gen.jpg",
+      "https://images.thdstatic.com/productImages/9a968a4b-b391-48bf-8c6e-8e9cd60d528e/svn/black-amazon-media-streaming-devices-b0bp9snvh9-66_600.jpg",
+      "https://www.cnet.com/a/img/resize/2326cb2f83b0f1bc5b43f208e06852439c35a08b/hub/2023/09/20/c3bf87fc-8d11-4988-9faa-7959c1c5082f/fire-tv-stick-4k-max.png?auto=webp&fit=crop&height=1200&width=1200"
+  ],
+  "price": 54.99,
+  "originalPrice": 64.99,
+  "discountPercentage": "15%",
+  "rating": 4.8,
+  "reviews": [
+      {
+          "username": "streamjunkie101",
+          "rating": 5,
+          "comment": "Fantastic streaming device with ultra-fast performance. 4K content looks stunning!",
+          "date": "2024-11-15"
+      },
+      {
+          "username": "techsavvy24",
+          "rating": 4.5,
+          "comment": "Easy to set up and works seamlessly with my smart home devices. Highly recommend!",
+          "date": "2024-11-14"
+      }
+  ],
+  "description": "The Amazon Fire TV Stick 4K Max is Amazon's most powerful streaming stick yet. With support for 4K UHD, Dolby Vision, and HDR10+, this compact device delivers an immersive viewing experience. Equipped with Wi-Fi 6E, it ensures faster and more reliable streaming even in high-traffic networks.",
+  "specifications": {
+      "videoOutput": "4K UHD (3840 x 2160), HDR10+, Dolby Vision",
+      "audioSupport": "Dolby Atmos",
+      "processor": "Quad-core 1.8GHz",
+      "storage": "16GB internal",
+      "connectivity": "Wi-Fi 6E, Bluetooth 5.0",
+      "voiceAssistant": "Alexa Voice Remote included",
+      "compatibility": "Works with Alexa, supports smart home integrations",
+      "dimensions": "99 x 30 x 14 mm (stick), 38 x 142 x 16 mm (remote)",
+      "weight": "48g (stick)"
+  },
+  "category": "Streaming Devices",
+  "stock": 50,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "2-5 business days",
+      "returnPolicy": "30-day return window"
+  },
+  "seller": {
+      "name": "Amazon Official Store",
+      "rating": 4.9,
+      "location": "United States",
+      "contact": "support@amazon.com"
+  },
+  "tags": ["Amazon", "Fire TV Stick", "4K Streaming", "Dolby Vision", "Smart Home"],
+  "newProduct": true,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "SD-302",
+  "productName": "Roku Ultra (2024)",
+  "images": [
+      "https://i.insider.com/6723a085a0a0cc14f2253b69?width=1200&format=jpeg",
+      "https://typeshop.pk/wp-content/uploads/2024/10/71zzglaxfl._ac_sl1500_-1200x1200.jpg",
+      "https://m.media-amazon.com/images/I/71jwrBlfguL._AC_UF894,1000_QL80_.jpg",
+      "https://cordcutting.com/wp-content/uploads/2022/07/roku-ultra-review-2022-scaled.jpg"
+  ],
+  "price": 99.99,
+  "originalPrice": 119.99,
+  "discountPercentage": "16%",
+  "rating": 4.7,
+  "reviews": [
+      {
+          "username": "cordcutter123",
+          "rating": 5,
+          "comment": "Excellent performance! The Roku Ultra is fast and delivers superior streaming quality in 4K with Dolby Vision.",
+          "date": "2024-11-12"
+      },
+      {
+          "username": "techlover45",
+          "rating": 4.5,
+          "comment": "Great device, but I wish it had a built-in voice assistant like some competitors. However, it works flawlessly with Alexa.",
+          "date": "2024-11-10"
+      }
+  ],
+  "description": "The Roku Ultra (2024) is a top-tier streaming device that offers exceptional 4K UHD streaming with support for Dolby Vision, Dolby Atmos, and a powerful quad-core processor. Experience fast, seamless streaming with a built-in Ethernet port for wired internet and a redesigned remote for easy navigation.",
+  "specifications": {
+      "videoOutput": "4K UHD (3840 x 2160), HDR10, Dolby Vision",
+      "audioSupport": "Dolby Atmos, DTS Digital Surround",
+      "processor": "Quad-core processor",
+      "storage": "16GB internal",
+      "connectivity": "Wi-Fi 6, Ethernet port, Bluetooth 5.0",
+      "voiceAssistant": "Alexa, Google Assistant compatible",
+      "remote": "Voice remote with TV controls, headphone jack for private listening",
+      "dimensions": "108 x 108 x 28 mm",
+      "weight": "152g"
+  },
+  "category": "Streaming Devices",
+  "stock": 100,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "3-5 business days",
+      "returnPolicy": "30-day return window"
+  },
+  "seller": {
+      "name": "Roku Official Store",
+      "rating": 4.8,
+      "location": "United States",
+      "contact": "support@roku.com"
+  },
+  "tags": ["Roku", "Streaming Device", "4K Streaming", "Dolby Vision", "Dolby Atmos", "Wi-Fi 6"],
+  "newProduct": true,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "SD-303",
+  "productName": "Apple TV 4K (3rd Generation)",
+  "images": [
+      "https://a4c.com/cdn/shop/files/r41109216734_2.jpg?v=1714649853&width=1500",
+      "https://eezepc.com/wp-content/uploads/2022/12/Apple-TV-4K-Wi%E2%80%91Fi-64GB-3rd-Generation-2022-price-in-pakistan-eezepc-5.jpg",
+      "https://gcic-p-001.sitecorecontenthub.cloud/api/public/content/130f9a7dd075454f8b0b016cdf03dec2?v=1b3184f0",
+      "https://preview.redd.it/its-a-box-3rd-gen-apple-tv-4k-packaging-vs-2nd-gen-v0-uedxyqv9o0v91.jpg?width=640&crop=smart&auto=webp&s=71c61cd36c22b7047d67fd269a441b01210360c1"
+  ],
+  "price": 179.99,
+  "originalPrice": 199.99,
+  "discountPercentage": "10%",
+  "rating": 4.8,
+  "reviews": [
+      {
+          "username": "applefan01",
+          "rating": 5,
+          "comment": "The Apple TV 4K is a game-changer. The performance is smooth, and the 4K Dolby Vision looks incredible!",
+          "date": "2024-11-10"
+      },
+      {
+          "username": "techguru88",
+          "rating": 4.5,
+          "comment": "Great upgrade from the previous generation. I love the new A15 Bionic chip. The only downside is the price.",
+          "date": "2024-11-08"
+      }
+  ],
+  "description": "The Apple TV 4K (3rd Generation) combines the latest tech from Apple, featuring the powerful **A15 Bionic chip** for smoother performance and enhanced visuals. With support for **4K HDR**, **Dolby Vision**, and **Dolby Atmos**, this streaming device provides an exceptional cinematic experience. Seamlessly integrate with the **Apple ecosystem** for a more immersive and convenient smart TV experience.",
+  "specifications": {
+      "processor": "A15 Bionic chip",
+      "videoOutput": "4K UHD (3840 x 2160), HDR10, Dolby Vision",
+      "audioSupport": "Dolby Atmos, Dolby Digital Plus",
+      "storage": "64GB",
+      "connectivity": "Wi-Fi 6, Ethernet port, Bluetooth 5.0",
+      "voiceAssistant": "Siri",
+      "remote": "Siri Remote with Touch surface",
+      "dimensions": "99 x 99 x 35 mm",
+      "weight": "0.2 kg"
+  },
+  "category": "Streaming Devices",
+  "stock": 50,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "2-3 business days",
+      "returnPolicy": "14-day return window"
+  },
+  "seller": {
+      "name": "Apple Official Store",
+      "rating": 4.9,
+      "location": "United States",
+      "contact": "support@apple.com"
+  },
+  "tags": ["Apple", "Streaming Device", "4K HDR", "Dolby Vision", "Siri", "Wi-Fi 6"],
+  "newProduct": true,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "SD-404",
+  "productName": "Google Chromecast with Google TV (4K)",
+  "images": [
+      "https://gsmart.pk/wp-content/uploads/2024/03/Untitled-2024-04-08T024926.791.jpeg",
+      "https://doctormobile.lk/wp-content/uploads/2024/11/nttkrt.webp",
+      "https://vmart.pk/wp-content/uploads/2020/10/Google-Chromecast-with-Google-Tv-2-600x600.jpg",
+      "https://www.ourfriday.co.uk/image/cache/catalog/Google/google-chromecast-4k-sunrise-1a-800x800.jpg"
+  ],
+  "price": 59.99,
+  "originalPrice": 69.99,
+  "discountPercentage": "14%",
+  "rating": 4.7,
+  "reviews": [
+      {
+          "username": "techlover23",
+          "rating": 5,
+          "comment": "Best 4K streaming device for the price. Google TV interface is super smooth, and setup is effortless.",
+          "date": "2024-11-14"
+      },
+      {
+          "username": "smartbuyer_99",
+          "rating": 4.5,
+          "comment": "Great device for streaming in 4K, though the remote could be a bit more responsive. Overall, very pleased!",
+          "date": "2024-11-10"
+      }
+  ],
+  "description": "The **Google Chromecast with Google TV (4K)** offers a fantastic streaming experience with support for **4K HDR**, **Dolby Vision**, and **Dolby Atmos**. With its powerful Google TV interface, it lets you stream your favorite content from services like Netflix, YouTube, and more, all in stunning clarity. The built-in Google Assistant allows for hands-free voice control, making it easy to search for content, control playback, and smart home devices.",
+  "specifications": {
+      "processor": "Quad-core CPU",
+      "videoOutput": "4K UHD (3840 x 2160), HDR10, Dolby Vision",
+      "audioSupport": "Dolby Atmos, Dolby Digital Plus",
+      "storage": "8GB",
+      "connectivity": "Wi-Fi 5, Bluetooth 4.2",
+      "voiceAssistant": "Google Assistant",
+      "remote": "Google TV Voice Remote with Google Assistant",
+      "dimensions": "9.9 x 3.8 x 1.6 cm",
+      "weight": "55 grams"
+  },
+  "category": "Streaming Devices",
+  "stock": 100,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "3-5 business days",
+      "returnPolicy": "30-day return policy"
+  },
+  "seller": {
+      "name": "Google Official Store",
+      "rating": 4.9,
+      "location": "United States",
+      "contact": "support@google.com"
+  },
+  "tags": ["Google", "Streaming Device", "4K HDR", "Google TV", "Voice Control", "Chromecast"],
+  "newProduct": true,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "SD-505",
+  "productName": "NVIDIA Shield TV Pro",
+  "images": [
+      "https://m.media-amazon.com/images/I/61lhl5i++1L._AC_UF1000,1000_QL80_.jpg",
+      "https://alhamdtech.pk/cdn/shop/files/nvidia-shield-pro-android-tv-box-4k-401292.jpg?v=1722252690",
+      "https://www.czone.com.pk/images/thumbnails-large/18-czone.com.pk-1540-14437-280223084842.jpg",
+      "https://external-preview.redd.it/the-nvidia-shield-tv-pro-gets-a-rare-discount-for-prime-day-v0-6Y3zwjhzc3V11pt0abnKfDKDHgiPW-RZdKxa-t3mBI4.jpg?width=1080&crop=smart&auto=webp&s=f5e240c00ce24c188758437bab88433e5385ea54"
+  ],
+  "price": 199.99,
+  "originalPrice": 219.99,
+  "discountPercentage": "9%",
+  "rating": 4.9,
+  "reviews": [
+      {
+          "username": "techgeek01",
+          "rating": 5,
+          "comment": "The NVIDIA Shield TV Pro is a powerhouse for streaming, gaming, and media management. Excellent 4K HDR streaming quality and a powerful gaming experience.",
+          "date": "2024-11-15"
+      },
+      {
+          "username": "streamingfan88",
+          "rating": 4.5,
+          "comment": "The best Android TV box available. Great for streamers, but it could use a slightly better remote. Overall, a fantastic product!",
+          "date": "2024-11-10"
+      }
+  ],
+  "description": "The **NVIDIA Shield TV Pro** is the ultimate streaming device, offering **4K HDR streaming**, **Dolby Vision**, and **Dolby Atmos** support. Powered by the **NVIDIA Tegra X1+ processor**, this device is perfect for both media streaming and gaming. With its **Android TV** interface, it supports a wide range of apps, including Netflix, YouTube, and Hulu, along with **GeForce NOW** for cloud gaming. It also features a **GameStream** option for streaming games from your PC, and it supports **Google Assistant** for voice control.",
+  "specifications": {
+      "processor": "NVIDIA Tegra X1+",
+      "videoOutput": "4K UHD (3840 x 2160), HDR10, Dolby Vision",
+      "audioSupport": "Dolby Atmos, Dolby Digital Plus",
+      "storage": "16GB",
+      "connectivity": "Wi-Fi 5, Bluetooth 5.0, Gigabit Ethernet",
+      "voiceAssistant": "Google Assistant",
+      "remote": "NVIDIA Shield TV Pro Voice Remote",
+      "dimensions": "9.4 x 6.3 x 2.5 inches",
+      "weight": "0.7 kg"
+  },
+  "category": "Streaming Devices",
+  "stock": 25,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "3-5 business days",
+      "returnPolicy": "30-day return policy"
+  },
+  "seller": {
+      "name": "NVIDIA Official Store",
+      "rating": 5.0,
+      "location": "United States",
+      "contact": "support@nvidia.com"
+  },
+  "tags": ["NVIDIA", "Streaming Device", "4K HDR", "Gaming", "Android TV", "Dolby Atmos"],
+  "newProduct": true,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "GC-1204",
+  "productName": "Sony PlayStation 5",
+  "images": [
+      "https://www.venturegames.com.pk/cdn/shop/files/PS5Slim2_6bdd92b1-1031-4875-bf62-0027cebfd331.jpg?v=1716385526",
+      "https://eezepc.com/wp-content/uploads/2022/11/Sony-PlayStation-5-DualSense-Wireless-Controller-Gray-Camouflage-price-in-pakistan-eezepc-6.jpg",
+      "https://eezepc.com/wp-content/uploads/2023/11/PlayStation%C2%AE5-Spider-Man-2.jpg",
+      "https://www.variants.pk/images/product_gallery/1642589569_ps5.jpg"
+  ],
+  "price": 499.99,
+  "originalPrice": 549.99,
+  "discountPercentage": "9%",
+  "rating": 4.8,
+  "reviews": [
+      {
+          "username": "gamerXtreme",
+          "rating": 5,
+          "comment": "The PS5 is an absolute game-changer. The graphics are stunning, and loading times are almost nonexistent! Spider-Man 2 is amazing on this console!",
+          "date": "2024-11-10"
+      },
+      {
+          "username": "techfanatic99",
+          "rating": 4.7,
+          "comment": "A powerful console with fantastic exclusives, but the availability has been a bit tough. Overall, I'm very satisfied.",
+          "date": "2024-10-25"
+      }
+  ],
+  "description": "The **Sony PlayStation 5** brings the next-generation gaming experience with its powerful hardware, stunning visuals, and fast load times. With a **Custom SSD** for faster load times, **Ray Tracing** for cinematic visuals, and an immersive **DualSense Wireless Controller** with haptic feedback and adaptive triggers, it offers gamers an unparalleled gaming experience. Whether you're playing the latest **Spider-Man 2** or enjoying the vast library of **PlayStation exclusives**, the PS5 offers gaming like never before.",
+  "specifications": {
+      "processor": "Custom AMD Zen 2, 8-core 3.5 GHz",
+      "graphics": "AMD RDNA 2 architecture with 36 CUs at 2.23 GHz",
+      "memory": "16 GB GDDR6",
+      "storage": "825 GB SSD (expandable)",
+      "videoOutput": "4K UHD (3840 x 2160), HDR10",
+      "audioSupport": "Tempest 3D AudioTech",
+      "controllers": "DualSense Wireless Controller (included)",
+      "connectivity": "Wi-Fi 6, Bluetooth 5.1, Ethernet",
+      "dimensions": "15.4 x 10.2 x 4.1 inches",
+      "weight": "4.5 kg"
+  },
+  "category": "Gaming Consoles",
+  "stock": 18,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "3-5 business days",
+      "returnPolicy": "30-day return policy"
+  },
+  "seller": {
+      "name": "Sony Official Store",
+      "rating": 5.0,
+      "location": "United States",
+      "contact": "support@sony.com"
+  },
+  "tags": ["PlayStation 5", "Gaming Console", "PS5", "Ray Tracing", "Spider-Man 2", "DualSense Controller", "Next-Gen Gaming"],
+  "newProduct": true,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "GC-1205",
+  "productName": "Microsoft Xbox Series X",
+  "images": [
+      "https://toygenix.com.pk/cdn/shop/files/PS5_8_1200x1200.jpg?v=1710164449",
+      "https://eezepc.com/wp-content/uploads/2020/12/Microsoft-Xbox-Series-X-Carbon-Black-Wireless-Controller-2.jpg",
+      "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/82bc268b-9a19-490f-b270-7908a6ba196b.jpg",
+      "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2023/06/xbox-series-x-square.jpg"
+  ],
+  "price": 499.99,
+  "originalPrice": 549.99,
+  "discountPercentage": "9%",
+  "rating": 4.9,
+  "reviews": [
+      {
+          "username": "nextgen_gamer",
+          "rating": 5,
+          "comment": "The Xbox Series X is a powerhouse. It has amazing load times and exceptional graphics. Perfect for 4K gaming and future-proofing!",
+          "date": "2024-11-05"
+      },
+      {
+          "username": "techmaster",
+          "rating": 4.8,
+          "comment": "Impressive hardware and performance. A bit large, but it's the best console for power users.",
+          "date": "2024-10-30"
+      }
+  ],
+  "description": "The **Microsoft Xbox Series X** is the most powerful console ever made, featuring a **Custom AMD Zen 2 processor** and **RDNA 2 architecture** for incredible performance. With **4K UHD resolution** support, **120 FPS**, and **Ray Tracing**, this console offers a top-tier gaming experience. The Xbox Series X also features **1TB SSD storage** for fast load times, and backward compatibility with thousands of Xbox One games. Paired with the new **Xbox Wireless Controller**, the Xbox Series X is designed to deliver smooth and responsive gameplay.",
+  "specifications": {
+      "processor": "Custom AMD Zen 2, 8-core 3.8 GHz",
+      "graphics": "AMD RDNA 2 architecture with 52 CUs at 1.825 GHz",
+      "memory": "16 GB GDDR6",
+      "storage": "1 TB SSD (expandable)",
+      "videoOutput": "4K UHD (3840 x 2160), HDR10, Dolby Vision",
+      "audioSupport": "Spatial Sound, Dolby Atmos",
+      "controllers": "Xbox Wireless Controller (included)",
+      "connectivity": "Wi-Fi 6, Bluetooth 5.1, Ethernet",
+      "dimensions": "15.1 x 15.1 x 30.1 cm",
+      "weight": "4.4 kg"
+  },
+  "category": "Gaming Consoles",
+  "stock": 25,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "3-5 business days",
+      "returnPolicy": "30-day return policy"
+  },
+  "seller": {
+      "name": "Microsoft Official Store",
+      "rating": 5.0,
+      "location": "United States",
+      "contact": "support@microsoft.com"
+  },
+  "tags": ["Xbox Series X", "Gaming Console", "Microsoft", "4K Gaming", "Ray Tracing", "Spatial Sound", "Next-Gen Gaming"],
+  "newProduct": true,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "GC-1302",
+  "productName": "Nintendo Switch OLED (2024)",
+  "images": [
+      "https://www.hollywoodreporter.com/wp-content/uploads/2024/07/Nintendo-Switch-OLED-with-Gray-Joy%E2%80%91Con-Manufacturer-Refurbished-EMBED-2024.png?w=1200",
+      "https://assets-prd.ignimgs.com/2024/02/23/mario-red-switch-1708662358091.jpg",
+      "https://gameforce.pk/wp-content/uploads/2024/02/nintendo-switch-oled-neon-price-in-pakistan-gameforcepk-4.webp",
+      "https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22701350/switch_oled_model.jpg?quality=90&strip=all&crop=10.572916666667%2C0%2C45%2C100&w=2400"
+  ],
+  "price": 349.99,
+  "originalPrice": 399.99,
+  "discountPercentage": "12%",
+  "rating": 4.8,
+  "reviews": [
+      {
+          "username": "game_lover_123",
+          "rating": 5,
+          "comment": "The OLED screen is a game changer! Colors pop, and the overall experience is much better than the base model.",
+          "date": "2024-09-12"
+      },
+      {
+          "username": "techy_john",
+          "rating": 4.7,
+          "comment": "Great for portable gaming. The upgraded screen and better speakers make a noticeable difference!",
+          "date": "2024-08-30"
+      }
+  ],
+  "description": "The **Nintendo Switch OLED (2024)** offers a stunning 7-inch OLED display for vibrant colors and deeper contrasts, making your games look more vibrant and detailed than ever before. Whether you’re playing in handheld mode or docked to your TV, the enhanced visuals and upgraded audio deliver an immersive experience. With **64GB of internal storage**, the console has plenty of space for games and content. The hybrid nature of the Switch lets you play on the go or dock it to enjoy larger-than-life gaming on your TV. Compatible with all **Switch games** and accessories, it’s the ultimate portable console.",
+  "specifications": {
+      "display": "7-inch OLED touch screen",
+      "processor": "Custom NVIDIA Tegra processor",
+      "storage": "64 GB",
+      "batteryLife": "Up to 9 hours of gameplay",
+      "audio": "Enhanced stereo speakers",
+      "controllers": "Joy-Con controllers (detachable)",
+      "connectivity": "Wi-Fi, Bluetooth, USB-C",
+      "videoOutput": "720p (handheld), 1080p (docked)",
+      "dimensions": "102 x 242 x 13.9 mm",
+      "weight": "0.42 kg"
+  },
+  "category": "Gaming Consoles",
+  "stock": 40,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "3-5 business days",
+      "returnPolicy": "30-day return policy"
+  },
+  "seller": {
+      "name": "Nintendo Official Store",
+      "rating": 4.9,
+      "location": "Japan",
+      "contact": "support@nintendo.com"
+  },
+  "tags": ["Nintendo Switch", "OLED Display", "Portable Gaming", "Hybrid Console", "Switch OLED 2024"],
+  "newProduct": true,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "GC-1303",
+  "productName": "PlayStation VR2 (for PS5)",
+  "images": [
+      "https://media.very.co.uk/i/very/VJW62_SQ2_0000000088_NO_COLOR_SLb?$pdp_300x400_x2$&fmt=jpg",
+      "https://gmedia.playstation.com/is/image/SIEPDC/vr2-comfort-and-design-headset-2?fmt=png-alpha&scl=1",
+      "https://gmedia.playstation.com/is/image/SIEPDC/section7-vr2-comfort-and-design-controller-left?fmt=png-alpha&scl=1",
+      "https://cdn.originalky.cz/images/0/51aa1889c0a466a9/2/stand-for-playstation-vr2-ps5.jpg?hash=261024160"
+  ],
+  "price": 549.99,
+  "originalPrice": 599.99,
+  "discountPercentage": "8%",
+  "rating": 4.9,
+  "reviews": [
+      {
+          "username": "virtual_gamer21",
+          "rating": 5,
+          "comment": "The immersion is unreal! The graphics are sharper, and the feeling of presence is amazing. A must-have for PS5 owners.",
+          "date": "2024-09-05"
+      },
+      {
+          "username": "techhead_99",
+          "rating": 4.8,
+          "comment": "Comfortable to wear for long sessions, but wish the wire was a bit longer. Overall, great experience.",
+          "date": "2024-08-21"
+      }
+  ],
+  "description": "The **PlayStation VR2 (for PS5)** offers an unparalleled virtual reality experience, designed exclusively for the PlayStation 5. With enhanced visuals, 3D audio, and innovative features such as adaptive triggers and haptic feedback in the controllers, the PS VR2 delivers a more immersive and realistic experience. The **OLED display** provides incredible clarity with 4K HDR support, offering deep blacks and vibrant colors. The sleek, comfortable design makes it easy to play for extended hours, while the wide range of compatible VR games will transport you into exciting new worlds.",
+  "specifications": {
+      "display": "OLED, 2000 x 2040 per eye, HDR, 120Hz refresh rate",
+      "audio": "3D Audio (Headphones required)",
+      "controllers": "DualSense VR2 controllers with adaptive triggers and haptic feedback",
+      "connectivity": "USB Type-C",
+      "compatibility": "PS5 exclusive",
+      "weight": "560g (headset), 280g (controllers)",
+      "dimensions": "185 x 200 x 105 mm"
+  },
+  "category": "Gaming Consoles",
+  "stock": 30,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "3-7 business days",
+      "returnPolicy": "30-day return policy"
+  },
+  "seller": {
+      "name": "Sony Official Store",
+      "rating": 4.9,
+      "location": "Japan",
+      "contact": "support@sony.com"
+  },
+  "tags": ["PlayStation VR2", "PS5 VR", "Virtual Reality", "VR Gaming", "PS5 Accessories"],
+  "newProduct": true,
+  "actions": {
+      "addToCart": true,
+      "buyNow": true,
+      "wishlist": true
+  }
+},
+{
+  "productId": "GC-1304",
+  "productName": "Oculus Quest 3 (Meta Quest 3)",
+  "images": [
+      "https://www.skygames.com.pk/wp-content/uploads/2023/10/oculus-meta-quest-3-512gb-2.png",
+      "https://komete-xr.com/cdn/shop/files/Acheter-Meta-Quest-3.webp?v=1695843071",
+      "https://gameforce.pk/wp-content/uploads/2024/02/Meta-Quest-3-0.jpg",
+      "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/m/e/meta-quest-3_1_1_1_1.jpg.webp"
+  ],
+  "price": 499.99,
+  "originalPrice": 549.99,
+  "discountPercentage": "9%",
+  "rating": 4.8,
+  "reviews": [
+      {
+          "username": "vrenthusiast",
+          "rating": 5,
+          "comment": "The Quest 3 is incredible! The visual clarity is better than ever, and the immersive experience is top-notch. Perfect for VR gaming.",
+          "date": "2024-07-25"
+      },
+      {
+          "username": "gamer_22",
+          "rating": 4.7,
+          "comment": "Amazing hardware! The only downside is the battery life, which could be better for extended sessions.",
+          "date": "2024-08-18"
+      }
+  ],
+  "description": "The **Oculus Quest 3 (Meta Quest 3)** is a game-changer in the world of VR gaming. With an improved design and upgraded hardware, it offers superior visuals and more immersive VR experiences. Equipped with **high-resolution displays** and **advanced sensors**, the Quest 3 ensures sharp clarity and smooth movement. Its standalone design means you don’t need a PC to experience high-quality VR. The improved ergonomic design makes it comfortable for long sessions, and the **expanded library of VR games and apps** makes it a must-have for any VR enthusiast.",
+  "specifications": {
+      "display": "LCD, 2064 x 2208 per eye, 120Hz refresh rate",
+      "audio": "Spatial Audio (Headphones recommended)",
+      "controllers": "Meta Quest 3 Touch controllers",
+      "connectivity": "Wi-Fi 6, Bluetooth 5.0",
+      "battery": "Up to 2-3 hours of gameplay",
+      "weight": "503g (headset)",
+      "dimensions": "191.5 x 106.7 x 126.5 mm"
+  },
+  "category": "Gaming Consoles",
+  "stock": 50,
+  "availability": "In Stock",
+  "shippingDetails": {
+      "freeShipping": true,
+      "deliveryTime": "3-7 business days",
+      "returnPolicy": "30-day return policy"
+  },
+  "seller": {
+      "name": "Meta Official Store",
+      "rating": 4.9,
+      "location": "USA",
+      "contact": "support@meta.com"
+  },
+  "tags": ["Oculus Quest 3", "Meta Quest 3", "VR Headset", "Virtual Reality", "Meta Gaming"],
+  "newProduct": true,
   "actions": {
       "addToCart": true,
       "buyNow": true,

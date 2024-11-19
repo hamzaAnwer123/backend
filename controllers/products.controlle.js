@@ -1,5 +1,6 @@
 const Product = require('../models/products.model');
 
+
 // Controller to get all products with filters, search, sorting, and pagination
 const getAllProducts = async (req, res) => {
   try {
@@ -54,5 +55,14 @@ const getAllProducts = async (req, res) => {
     res.status(500).json({ error: 'An error occurred while fetching products.' });
   }
 };
+const getAllProductsTesting = async (req, res) => {
+    try {
+      const ProductData = await Product.find(req.query);
+      res.status(200).json(ProductData);
+    } catch (error) {
+      console.error(error);
+      res.status(500).json({ error: 'An error occurred during testing.' });
+    }
+  };
+module.exports = { getAllProducts ,getAllProductsTesting};
 
-module.exports = { getAllProducts };

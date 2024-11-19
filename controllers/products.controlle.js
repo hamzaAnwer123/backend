@@ -3,30 +3,17 @@ const Product = require('../models/products.model');
 // Controller to get all products with filters, search, sorting, and pagination
 const getAllProducts = async (req, res) => {
   try {
-    // Extract query parameters
     const { category, Search, productId, newProduct, sort, select, productName, description } = req.query;
 
     // Initialize query object
     const QueryObject = {};
+    if (category) QueryObject.category = category;
+    if (newProduct) QueryObject.newProduct = newProduct;
+    if (productId) QueryObject.productId = productId;
+    if (productName) QueryObject.productName = { $regex: productName, $options: 'i' }; 
+    if (description) QueryObject.description = { $regex: description, $options: 'i' };
 
-    // Add filters based on query parameters
-    if (category) {
-      QueryObject.category = category;
-    }
-    if (newProduct) {
-      QueryObject.newProduct = newProduct;
-    }
-    if (productId) {
-      QueryObject.productId = productId;
-    }
-    if (productName) {
-      QueryObject.productName = { $regex: productName, $options: 'i' }; // Case-insensitive search for productName
-    }
-    if (description) {
-      QueryObject.description = { $regex: description, $options: 'i' }; // Case-insensitive search for description
-    }
-
-    // Build the query
+    // Build query
     let apiData = Product.find(QueryObject);
 
     // Apply sorting
@@ -42,39 +29,30 @@ const getAllProducts = async (req, res) => {
     }
 
     // Pagination logic
-    let page = Number(req.query.page) || 0;
+    let page = Number(req.query.page) || 1;
     let limit = Number(req.query.limit) || 10;
+    if (page < 1) page = 1;
+    if (limit < 1) limit = 10;
+
     let skip = (page - 1) * limit;
     apiData = apiData.skip(skip).limit(limit);
 
     // Execute query
     const ProductData = await apiData;
-
-    // Total product count (used for pagination metadata)
     const totalProducts = await Product.countDocuments(QueryObject);
 
     res.status(200).json({
-      products: ProductData.length,
+      productsOnPage: ProductData.length,
       totalProducts,
       totalPages: Math.ceil(totalProducts / limit),
       currentPage: page,
+      limit,
       ProductData,
     });
   } catch (error) {
-    console.error(error);
+    console.error("Error fetching products:", error);
     res.status(500).json({ error: 'An error occurred while fetching products.' });
   }
 };
 
-// Controller for simple query testing
-const getAllProductsTesting = async (req, res) => {
-  try {
-    const ProductData = await Product.find(req.query);
-    res.status(200).json(ProductData);
-  } catch (error) {
-    console.error(error);
-    res.status(500).json({ error: 'An error occurred during testing.' });
-  }
-};
-
-module.exports = { getAllProducts, getAllProductsTesting };
+module.exports = { getAllProducts };

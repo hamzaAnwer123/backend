@@ -28,10 +28,12 @@ const getAllProducts = async (req, res) => {
       let selectFix = select.split(",").join(" ");
       apiData = apiData.select(selectFix);
     }
-
+    
+    const ProductData = await apiData;
+    
     // Pagination logic
     let page = Number(req.query.page) || 1;
-    let limit = Number(req.query.limit) || 10;
+    let limit = Number(req.query.limit) || ProductData.length;
     if (page < 1) page = 1;
     if (limit < 1) limit = 10;
 
@@ -39,7 +41,6 @@ const getAllProducts = async (req, res) => {
     apiData = apiData.skip(skip).limit(limit);
 
     // Execute query
-    const ProductData = await apiData;
     const totalProducts = await Product.countDocuments(QueryObject);
 
     res.status(200).json({
